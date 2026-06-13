@@ -1,0 +1,2001 @@
+decade,artist,song,popularity,rank_in_decade
+1990s,Dr. Dre,The Next Episode,82,1
+1990s,blink-182,All The Small Things,79,2
+1990s,Dr. Dre,Forgot About Dre,79,2
+1990s,Red Hot Chili Peppers,Otherside,78,4
+1990s,Destiny's Child,Say My Name,75,5
+1990s,Dido,Thank You,73,6
+1990s,DMX,Party Up,71,7
+1990s,Wheatus,Teenage Dirtbag,71,7
+1990s,Crazy Town,Butterfly,71,7
+1990s,Destiny's Child,"Jumpin', Jumpin'",70,10
+1990s,Sisqo,Thong Song,69,11
+1990s,JAY-Z,Big Pimpin',69,11
+1990s,Creed,Higher,69,11
+1990s,Backstreet Boys,Show Me the Meaning of Being Lonely,68,14
+1990s,Faith Hill,Breathe,66,15
+1990s,Santana,Maria Maria (feat. The Product G&B),66,15
+1990s,Tom Jones,Sexbomb,65,17
+1990s,Anastacia,I'm Outta Love - Radio Edit,64,18
+1990s,Gigi D'Agostino,The Riddle,64,18
+1990s,Céline Dion,That's the Way It Is,64,18
+1990s,Creed,With Arms Wide Open,64,18
+1990s,Christina Aguilera,Come on over Baby (All I Want Is You) - Radio Version,64,18
+1990s,Donell Jones,"U Know What's Up (feat. Lisa ""Left Eye"" Lopes)",63,23
+1990s,Sting,Desert Rose,62,24
+1990s,Melanie C,Never Be The Same Again,61,25
+1990s,Christina Aguilera,I Turn to You,61,25
+1990s,Sisqo,Incomplete,60,27
+1990s,Montell Jordan,Get It On Tonite,59,28
+1990s,Mariah Carey,Thank God I Found You (feat. Joe & 98°),59,28
+1990s,Britney Spears,Born to Make You Happy,58,30
+1990s,Donell Jones,Where I Wanna Be,57,31
+1990s,Eiffel 65,Move Your Body - Gabry Ponte Original Radio Edit,56,32
+1990s,Madison Avenue,Don't Call Me Baby,56,32
+1990s,Marc Anthony,You Sang To Me,56,32
+1990s,Anastacia,Sick and Tired,56,32
+1990s,Melanie C,I Turn To You,54,36
+1990s,Enrique Iglesias,Be With You,54,36
+1990s,Savage Garden,Crash and Burn,54,36
+1990s,Missy Elliott,Hot Boyz,49,39
+2000s,Eminem,Without Me,87,1
+2000s,Eminem,The Real Slim Shady,86,2
+2000s,Eminem,'Till I Collapse,85,3
+2000s,Linkin Park,In the End,83,4
+2000s,Eminem,Stan,83,4
+2000s,Linkin Park,In the End,83,4
+2000s,Outkast,Ms. Jackson,82,7
+2000s,Gorillaz,Feel Good Inc.,82,7
+2000s,Shakira,Hips Don't Lie (feat. Wyclef Jean),82,7
+2000s,Nelly Furtado,Promiscuous,82,7
+2000s,Kanye West,Heartless,82,7
+2000s,JAY-Z,Empire State Of Mind,82,7
+2000s,50 Cent,In Da Club,81,13
+2000s,Usher,Yeah! (feat. Lil Jon & Ludacris),81,13
+2000s,Britney Spears,Toxic,81,13
+2000s,Linkin Park,Numb,81,13
+2000s,Rihanna,Umbrella,81,13
+2000s,Nelly Furtado,Say It Right,81,13
+2000s,Red Hot Chili Peppers,Can't Stop,80,19
+2000s,Outkast,Hey Ya!,80,19
+2000s,Kanye West,All Falls Down,80,19
+2000s,Timbaland,The Way I Are,80,19
+2000s,My Chemical Romance,Teenagers,80,19
+2000s,Flo Rida,Low (feat. T-Pain),80,19
+2000s,Coldplay,Viva La Vida,80,19
+2000s,Kings of Leon,Sex on Fire,80,19
+2000s,Black Eyed Peas,I Gotta Feeling,80,19
+2000s,Lady Gaga,Bad Romance,80,19
+2000s,Kings of Leon,Sex on Fire,80,19
+2000s,Lady Gaga,Bad Romance,80,19
+2000s,Coldplay,Clocks,79,31
+2000s,Evanescence,Bring Me To Life,79,31
+2000s,Coldplay,Clocks,79,31
+2000s,Hoobastank,The Reason,79,31
+2000s,50 Cent,Candy Shop,79,31
+2000s,Nelly Furtado,Maneater,79,31
+2000s,The Fray,How to Save a Life,79,31
+2000s,Britney Spears,Gimme More,79,31
+2000s,Red Hot Chili Peppers,Snow (Hey Oh),79,31
+2000s,Miley Cyrus,Party In The U.S.A.,79,31
+2000s,Bon Jovi,It's My Life,78,41
+2000s,3 Doors Down,Kryptonite,78,41
+2000s,Jimmy Eat World,The Middle,78,41
+2000s,Nickelback,How You Remind Me,78,41
+2000s,Avril Lavigne,Complicated,78,41
+2000s,Kanye West,Gold Digger,78,41
+2000s,Sean Paul,Temperature,78,41
+2000s,Justin Timberlake,SexyBack (feat. Timbaland),78,41
+2000s,Plain White T's,Hey There Delilah,78,41
+2000s,Foo Fighters,The Pretender,78,41
+2000s,Sean Kingston,Beautiful Girls,78,41
+2000s,The Offspring,"You're Gonna Go Far, Kid",78,41
+2000s,Estelle,American Boy,78,41
+2000s,Owl City,Fireflies,78,41
+2000s,Britney Spears,Oops!...I Did It Again,77,55
+2000s,Modjo,Lady - Hear Me Tonight,77,55
+2000s,Train,Drops of Jupiter (Tell Me),77,55
+2000s,Nelly,Dilemma,77,55
+2000s,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",77,55
+2000s,Maroon 5,This Love,77,55
+2000s,Franz Ferdinand,Take Me Out,77,55
+2000s,Green Day,American Idiot,77,55
+2000s,Rihanna,Pon de Replay,77,55
+2000s,The Game,Hate It Or Love It,77,55
+2000s,Eminem,Mockingbird,77,55
+2000s,Linkin Park,What I've Done,77,55
+2000s,Alicia Keys,No One,77,55
+2000s,Rihanna,Don't Stop The Music,77,55
+2000s,MGMT,Kids,77,55
+2000s,Lady Gaga,Poker Face,77,55
+2000s,Empire of the Sun,Walking On A Dream,77,55
+2000s,Shaggy,It Wasn't Me,76,72
+2000s,Mary J. Blige,Family Affair,76,72
+2000s,Daft Punk,One More Time,76,72
+2000s,Beyoncé,Crazy In Love (feat. Jay-Z),76,72
+2000s,50 Cent,P.I.M.P.,76,72
+2000s,Justin Timberlake,Rock Your Body,76,72
+2000s,Kanye West,Through The Wire,76,72
+2000s,Usher,My Boo,76,72
+2000s,50 Cent,Just A Lil Bit,76,72
+2000s,JAY-Z,Numb / Encore,76,72
+2000s,Foo Fighters,Best of You,76,72
+2000s,Red Hot Chili Peppers,Dani California,76,72
+2000s,My Chemical Romance,Welcome to the Black Parade,76,72
+2000s,Fergie,Big Girls Don't Cry (Personal),76,72
+2000s,Fall Out Boy,Thnks fr th Mmrs,76,72
+2000s,All Time Low,"Dear Maria, Count Me In",76,72
+2000s,Amy Winehouse,Back To Black,76,72
+2000s,Carrie Underwood,Before He Cheats,76,72
+2000s,Rihanna,Disturbia,76,72
+2000s,Britney Spears,Womanizer,76,72
+2000s,P!nk,So What,76,72
+2000s,Lady Gaga,Just Dance,76,72
+2000s,Soulja Boy,Kiss Me Thru The Phone,76,72
+2000s,Alien Ant Farm,Smooth Criminal,75,95
+2000s,Nelly,Ride Wit Me,75,95
+2000s,Vanessa Carlton,A Thousand Miles,75,95
+2000s,Nelly,Hot In Herre,75,95
+2000s,Avril Lavigne,Sk8er Boi,75,95
+2000s,Audioslave,Like a Stone,75,95
+2000s,James Blunt,You're Beautiful,75,95
+2000s,Black Eyed Peas,Pump It,75,95
+2000s,Muse,Supermassive Black Hole,75,95
+2000s,Ne-Yo,So Sick,75,95
+2000s,Leona Lewis,Bleeding Love,75,95
+2000s,Avril Lavigne,Girlfriend,75,95
+2000s,Kardinal Offishall,Dangerous,75,95
+2000s,T.I.,Live Your Life,75,95
+2000s,Skillet,Monster,75,95
+2000s,JAY-Z,Run This Town,75,95
+2000s,T.I.,Live Your Life,75,95
+2000s,Muse,Uprising,75,95
+2000s,Iyaz,Replay,75,95
+2000s,Shakira,"Whenever, Wherever",74,114
+2000s,Gorillaz,Clint Eastwood,74,114
+2000s,Sean Paul,Get Busy,74,114
+2000s,The Strokes,Reptilia,74,114
+2000s,3 Doors Down,Here Without You,74,114
+2000s,Daniel Powter,Bad Day,74,114
+2000s,Madonna,Hung Up,74,114
+2000s,The Game,How We Do,74,114
+2000s,Thirty Seconds To Mars,The Kill,74,114
+2000s,Gnarls Barkley,Crazy,74,114
+2000s,Eminem,Shake That,74,114
+2000s,Fall Out Boy,"Dance, Dance",74,114
+2000s,Soulja Boy,Crank That (Soulja Boy),74,114
+2000s,Ne-Yo,Because Of You,74,114
+2000s,The Red Jumpsuit Apparatus,Face Down,74,114
+2000s,Rihanna,Take A Bow,74,114
+2000s,Timbaland,Apologize,74,114
+2000s,Soulja Boy,Crank That (Soulja Boy),74,114
+2000s,T.I.,Whatever You Like,74,114
+2000s,Chris Brown,Forever,74,114
+2000s,Beyoncé,Halo,74,114
+2000s,Flo Rida,Right Round,74,114
+2000s,Taylor Swift,Love Story,74,114
+2000s,Britney Spears,Circus,74,114
+2000s,T.I.,Whatever You Like,74,114
+2000s,OneRepublic,Secrets,74,114
+2000s,Rihanna,Rude Boy,74,114
+2000s,Alice Deejay,Better Off Alone,73,141
+2000s,Kylie Minogue,Can't Get You out of My Head,73,141
+2000s,Limp Bizkit,Rollin' (Air Raid Vehicle),73,141
+2000s,Eve,Let Me Blow Ya Mind,73,141
+2000s,Fat Joe,What's Luv? (feat. Ja-Rule & Ashanti),73,141
+2000s,Ja Rule,Always On Time,73,141
+2000s,Red Hot Chili Peppers,By the Way,73,141
+2000s,Baby Bash,Suga Suga,73,141
+2000s,Justin Timberlake,Cry Me a River,73,141
+2000s,D12,My Band,73,141
+2000s,Baby Bash,Suga Suga,73,141
+2000s,Kanye West,Jesus Walks,73,141
+2000s,Fort Minor,Remember the Name (feat. Styles of Beyond),73,141
+2000s,Gorillaz,DARE,73,141
+2000s,Rihanna,SOS,73,141
+2000s,Cassie,Me & U,73,141
+2000s,Kanye West,Touch The Sky,73,141
+2000s,The Kooks,Naive,73,141
+2000s,Alex Gaudino,Destination Calabria - Radio Edit,73,141
+2000s,Finger Eleven,Paralyzer,73,141
+2000s,Seether,Fake It,73,141
+2000s,Linkin Park,Bleed It Out,73,141
+2000s,Katy Perry,I Kissed A Girl,73,141
+2000s,Katy Perry,Hot N Cold,73,141
+2000s,Finger Eleven,Paralyzer,73,141
+2000s,Drake,Forever,73,141
+2000s,Green Day,21 Guns,73,141
+2000s,The Fray,You Found Me,73,141
+2000s,Limp Bizkit,Take A Look Around,72,169
+2000s,The Calling,Wherever You Will Go,72,169
+2000s,Coldplay,In My Place,72,169
+2000s,Linkin Park,Faint,72,169
+2000s,Three Days Grace,I Hate Everything About You,72,169
+2000s,Trapt,Headstrong,72,169
+2000s,50 Cent,21 Questions,72,169
+2000s,Eric Prydz,Call on Me - Radio Mix,72,169
+2000s,Evanescence,My Immortal,72,169
+2000s,Twista,Slow Jamz,72,169
+2000s,Mario,Let Me Love You,72,169
+2000s,Green Day,Boulevard of Broken Dreams,72,169
+2000s,The Pussycat Dolls,Don't Cha,72,169
+2000s,50 Cent,Disco Inferno,72,169
+2000s,Shakira,La Tortura (feat. Alejandro Sanz),72,169
+2000s,Justin Timberlake,My Love (feat. T.I.),72,169
+2000s,Arctic Monkeys,When The Sun Goes Down,72,169
+2000s,Keyshia Cole,Love,72,169
+2000s,Justin Timberlake,My Love (feat. T.I.),72,169
+2000s,Paramore,Misery Business,72,169
+2000s,The Pussycat Dolls,When I Grow Up,72,169
+2000s,Black Eyed Peas,Meet Me Halfway,72,169
+2000s,Kid Cudi,Day 'N' Nite (Nightmare),72,169
+2000s,OneRepublic,Good Life,72,169
+2000s,Blu Cantrell,Hit 'Em Up Style (Oops!),71,193
+2000s,Eminem,Cleanin' Out My Closet,71,193
+2000s,JAY-Z,03' Bonnie & Clyde,71,193
+2000s,Eminem,Sing For The Moment,71,193
+2000s,Chris Brown,Run It! (feat. Juelz Santana),71,193
+2000s,Arctic Monkeys,I Bet You Look Good On The Dancefloor,71,193
+2000s,Kelly Clarkson,Because of You,71,193
+2000s,KT Tunstall,Suddenly I See,71,193
+2000s,Kelly Clarkson,Since U Been Gone,71,193
+2000s,Amy Winehouse,Rehab,71,193
+2000s,Chamillionaire,Ridin',71,193
+2000s,Gwen Stefani,The Sweet Escape,71,193
+2000s,Ne-Yo,Miss Independent,71,193
+2000s,Madonna,4 Minutes (feat. Justin Timberlake & Timbaland),71,193
+2000s,Usher,Love in This Club (feat. Young Jeezy),71,193
+2000s,Sean Kingston,Fire Burning,71,193
+2000s,La Roux,Bulletproof,71,193
+2000s,Justin Bieber,One Time,71,193
+2000s,Young Money,BedRock,71,193
+2000s,Alicia Keys,Empire State of Mind (Part II) Broken Down,71,193
+2000s,Craig David,7 Days,70,213
+2000s,Backstreet Boys,Shape of My Heart,70,213
+2000s,Destiny's Child,Survivor,70,213
+2000s,Missy Elliott,Work It,70,213
+2000s,Ashanti,Foolish,70,213
+2000s,Puddle Of Mudd,She Hates Me,70,213
+2000s,Jennifer Lopez,Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,70,213
+2000s,DMX,X Gon' Give It To Ya,70,213
+2000s,Limp Bizkit,Behind Blue Eyes,70,213
+2000s,Missy Elliott,Work It,70,213
+2000s,Avril Lavigne,I'm with You,70,213
+2000s,Juanes,La Camisa Negra,70,213
+2000s,Beyoncé,Irreplaceable,70,213
+2000s,Rihanna,Unfaithful,70,213
+2000s,Nickelback,Far Away,70,213
+2000s,Panic! At The Disco,I Write Sins Not Tragedies,70,213
+2000s,Justin Timberlake,What Goes Around.../...Comes Around (Interlude),70,213
+2000s,Timbaland,Give It To Me,70,213
+2000s,Lloyd,You,70,213
+2000s,Chris Brown,With You,70,213
+2000s,Madcon,Beggin (original version),70,213
+2000s,James Morrison,Broken Strings,70,213
+2000s,Lady Gaga,Paparazzi,70,213
+2000s,Eminem,Crack A Bottle,70,213
+2000s,3OH!3,DONTTRUSTME,70,213
+2000s,James Morrison,Broken Strings,70,213
+2000s,Darude,Sandstorm,69,239
+2000s,Britney Spears,I'm a Slave 4 U,69,239
+2000s,P.O.D.,Youth of the Nation,69,239
+2000s,Enya,Only Time,69,239
+2000s,Gabrielle,Out Of Reach,69,239
+2000s,Diddy,"I Need a Girl (Pt. 2) [feat. Loon, Ginuwine & Mario Winans]",69,239
+2000s,Creed,My Sacrifice,69,239
+2000s,Jamelia,Superstar,69,239
+2000s,Chingy,Right Thurr,69,239
+2000s,Mariah Carey,We Belong Together,69,239
+2000s,Gwen Stefani,Hollaback Girl,69,239
+2000s,Stereophonics,Dakota,69,239
+2000s,Coldplay,Speed of Sound,69,239
+2000s,Bob Sinclar,Rock This Party - Everybody Dance Now,69,239
+2000s,Mary J. Blige,Be Without You - Kendu Mix,69,239
+2000s,Rascal Flatts,What Hurts The Most,69,239
+2000s,Chris Brown,Yo (Excuse Me Miss),69,239
+2000s,Rihanna,Shut Up And Drive,69,239
+2000s,Nickelback,Rockstar,69,239
+2000s,MIKA,Grace Kelly,69,239
+2000s,Lil Wayne,Lollipop,69,239
+2000s,Akon,Right Now (Na Na Na),69,239
+2000s,Jeezy,Put On,69,239
+2000s,Lil Wayne,A Milli,69,239
+2000s,Saving Abel,Addicted,69,239
+2000s,Duffy,Mercy,69,239
+2000s,Lady Gaga,LoveGame,69,239
+2000s,Britney Spears,If U Seek Amy,69,239
+2000s,Timbaland,Carry Out (Featuring Justin Timberlake),69,239
+2000s,Lady Gaga,Telephone,69,239
+2000s,Robbie Williams,Rock DJ,68,269
+2000s,Westlife,My Love,68,269
+2000s,The Corrs,Breathless,68,269
+2000s,Nelly,Country Grammar (Hot Shit),68,269
+2000s,Christina Aguilera,"Lady Marmalade - From ""Moulin Rouge"" Soundtrack",68,269
+2000s,Missy Elliott,Get Ur Freak On,68,269
+2000s,D12,Purple Pills,68,269
+2000s,Afroman,Because I Got High,68,269
+2000s,Lenny Kravitz,Again,68,269
+2000s,Travis,Sing,68,269
+2000s,Busta Rhymes,I Know What You Want (feat. Flipmode Squad),68,269
+2000s,Christina Aguilera,Dirrty (feat. Redman),68,269
+2000s,P!nk,Get the Party Started,68,269
+2000s,Black Eyed Peas,Where Is The Love?,68,269
+2000s,Busta Rhymes,I Know What You Want (feat. Flipmode Squad),68,269
+2000s,Nickelback,Someday,68,269
+2000s,Good Charlotte,Lifestyles of the Rich & Famous,68,269
+2000s,The Rasmus,In the Shadows,68,269
+2000s,Kelis,Milkshake,68,269
+2000s,Linkin Park,Breaking the Habit,68,269
+2000s,Sean Paul,I'm Still in Love with You (feat. Sasha),68,269
+2000s,Avril Lavigne,My Happy Ending,68,269
+2000s,Gwen Stefani,Rich Girl,68,269
+2000s,2Pac,Ghetto Gospel,68,269
+2000s,The Pussycat Dolls,Buttons,68,269
+2000s,The Notorious B.I.G.,"Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",68,269
+2000s,Eminem,When I'm Gone,68,269
+2000s,Lily Allen,Smile,68,269
+2000s,The Fratellis,Chelsea Dagger,68,269
+2000s,Ciara,Like a Boy,68,269
+2000s,Chris Brown,Kiss Kiss (feat. T-Pain),68,269
+2000s,Fall Out Boy,"This Ain't A Scene, It's An Arms Race",68,269
+2000s,James Blunt,1973,68,269
+2000s,Avril Lavigne,When You're Gone,68,269
+2000s,Chris Brown,Kiss Kiss (feat. T-Pain),68,269
+2000s,Jonas Brothers,Burnin' Up,68,269
+2000s,Black Eyed Peas,Boom Boom Pow,68,269
+2000s,Shakira,She Wolf,68,269
+2000s,Linkin Park,New Divide,68,269
+2000s,T.I.,Dead And Gone,68,269
+2000s,Kelly Clarkson,My Life Would Suck Without You,68,269
+2000s,Mumford & Sons,Little Lion Man,68,269
+2000s,Timbaland,If We Ever Meet Again (Featuring Katy Perry),68,269
+2000s,Jennifer Lopez,Love Don't Cost a Thing,67,312
+2000s,Jagged Edge,Where the Party At (feat. Nelly),67,312
+2000s,Cam’ron,Oh Boy,67,312
+2000s,Pharrell Williams,Frontin' (feat. Jay-Z) - Club Mix,67,312
+2000s,Christina Aguilera,Fighter,67,312
+2000s,Snoop Dogg,Beautiful,67,312
+2000s,3 Doors Down,When I'm Gone,67,312
+2000s,Junior Senior,Move Your Feet,67,312
+2000s,Fabolous,Into You (feat. Tamia),67,312
+2000s,Terror Squad,Lean Back,67,312
+2000s,Ciara,Goodies (feat. Petey Pablo),67,312
+2000s,Nina Sky,Move Ya Body,67,312
+2000s,Eminem,Just Lose It,67,312
+2000s,Kevin Lyttle,Turn Me On,67,312
+2000s,Crazy Frog,Axel F,67,312
+2000s,Black Eyed Peas,My Humps,67,312
+2000s,Missy Elliott,Lose Control (feat. Ciara & Fat Man Scoop),67,312
+2000s,Nickelback,Photograph,67,312
+2000s,The Pussycat Dolls,Stickwitu,67,312
+2000s,Eminem,Like Toy Soldiers,67,312
+2000s,Toby Keith,As Good As I Once Was,67,312
+2000s,Lil Jon,Snap Yo Fingers,67,312
+2000s,Ne-Yo,Sexy Love,67,312
+2000s,The Pussycat Dolls,Stickwitu,67,312
+2000s,James Blunt,Goodbye My Lover,67,312
+2000s,Razorlight,America,67,312
+2000s,50 Cent,Ayo Technology,67,312
+2000s,Arctic Monkeys,Brianstorm,67,312
+2000s,Kaiser Chiefs,Ruby,67,312
+2000s,Metro Station,Shake It,67,312
+2000s,David Archuleta,Crush,67,312
+2000s,Leona Lewis,Better in Time,67,312
+2000s,Jeremih,Birthday Sex,67,312
+2000s,Beyoncé,Single Ladies (Put a Ring on It),67,312
+2000s,The Fray,Never Say Never,67,312
+2000s,Shinedown,Second Chance,67,312
+2000s,Rihanna,Te Amo,67,312
+2000s,Lady Gaga,Alejandro,67,312
+2000s,Toni Braxton,He Wasn't Man Enough,66,350
+2000s,Atomic Kitten,Whole Again,66,350
+2000s,Jennifer Lopez,I'm Real (feat. Ja Rule) - Murder Remix,66,350
+2000s,Las Ketchup,The Ketchup Song (Aserejé) - Spanglish Version,66,350
+2000s,Chad Kroeger,Hero (feat. Josey Scott),66,350
+2000s,Benny Benassi,Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz,66,350
+2000s,Outkast,The Way You Move (feat. Sleepy Brown),66,350
+2000s,Twista,Overnight Celebrity,66,350
+2000s,Outkast,The Way You Move (feat. Sleepy Brown),66,350
+2000s,Lil Jon & The East Side Boyz,Lovers And Friends,66,350
+2000s,Bow Wow,Like You (feat. Ciara),66,350
+2000s,Yung Joc,It's Goin' Down (feat. Nitti),66,350
+2000s,Justin Timberlake,Summer Love,66,350
+2000s,Sugababes,About You Now,66,350
+2000s,Christina Aguilera,Candyman,66,350
+2000s,Beyoncé,If I Were a Boy,66,350
+2000s,Plies,Hypnotized (feat. Akon),66,350
+2000s,Kanye West,Love Lockdown,66,350
+2000s,Mariah Carey,Obsessed,66,350
+2000s,Kevin Rudolf,Let It Rock,66,350
+2000s,Kanye West,Love Lockdown,66,350
+2000s,Nickelback,If Today Was Your Last Day,66,350
+2000s,*NSYNC,Bye Bye Bye,65,372
+2000s,Baha Men,Who Let The Dogs Out,65,372
+2000s,LeAnn Rimes,Can't Fight The Moonlight,65,372
+2000s,Destiny's Child,"Independent Women, Pt. 1",65,372
+2000s,Joe,I Wanna Know,65,372
+2000s,Britney Spears,Lucky,65,372
+2000s,Lasgo,Something,65,372
+2000s,Jamiroquai,Little L,65,372
+2000s,Janet Jackson,All For You,65,372
+2000s,Destiny's Child,"Independent Women, Pt. 1",65,372
+2000s,Ginuwine,Differences,65,372
+2000s,Atomic Kitten,The Tide Is High - Radio Mix,65,372
+2000s,Ashanti,Rock Wit U (Awww Baby),65,372
+2000s,Anastacia,Left Outside Alone,65,372
+2000s,The Shapeshifters,Lola's Theme - Radio Edit,65,372
+2000s,Gary Jules,Mad World (Feat. Michael Andrews),65,372
+2000s,Jennifer Lopez,Get Right,65,372
+2000s,Bobby V.,"Slow Down - 12"" Version",65,372
+2000s,The All-American Rejects,Dirty Little Secret,65,372
+2000s,Cherish,Do It To It,65,372
+2000s,Nickelback,Savin' Me,65,372
+2000s,Evanescence,Call Me When You're Sober,65,372
+2000s,The All-American Rejects,Dirty Little Secret,65,372
+2000s,September,Cry for You,65,372
+2000s,Klaxons,Golden Skans,65,372
+2000s,September,Cry for You,65,372
+2000s,Eric Prydz,Pjanoo - Radio Edit,65,372
+2000s,Ne-Yo,Closer,65,372
+2000s,Basshunter,All I Ever Wanted - Radio Edit,65,372
+2000s,Sean Kingston,Take You There,65,372
+2000s,Agnes,Release Me,65,372
+2000s,OneRepublic,All The Right Moves,65,372
+2000s,Cheryl,Fight For This Love,65,372
+2000s,A.R. Rahman,Jai Ho! (You Are My Destiny),65,372
+2000s,Akon,Beautiful,65,372
+2000s,Cobra Starship,Good Girls Go Bad (feat. Leighton Meester),65,372
+2000s,Jamie Foxx,Blame It,65,372
+2000s,JAY-Z,Young Forever,65,372
+2000s,Mary Mary,Shackles (Praise You),64,410
+2000s,Michael Jackson,You Rock My World,64,410
+2000s,Destiny's Child,Bootylicious,64,410
+2000s,Ja Rule,Livin' It Up,64,410
+2000s,Staind,It's Been Awhile,64,410
+2000s,Shakira,Underneath Your Clothes,64,410
+2000s,Tweet,Oops (Oh My) [feat. Missy Elliott],64,410
+2000s,Big Tymers,Still Fly,64,410
+2000s,Robbie Williams,Somethin' Stupid,64,410
+2000s,Puddle Of Mudd,Blurry,64,410
+2000s,Monica,So Gone,64,410
+2000s,U2,Vertigo,64,410
+2000s,Eamon,Fuck It (I Don't Want You Back),64,410
+2000s,JUVENILE,Slow Motion,64,410
+2000s,Sugababes,Push The Button,64,410
+2000s,Take That,Patience,64,410
+2000s,T.I.,What You Know,64,410
+2000s,Mary J. Blige,One,64,410
+2000s,KT Tunstall,Black Horse And The Cherry Tree,64,410
+2000s,James Morrison,You Give Me Something,64,410
+2000s,Beyoncé,Beautiful Liar,64,410
+2000s,Take That,Patience,64,410
+2000s,Fergie,Glamorous,64,410
+2000s,J. Holiday,Bed,64,410
+2000s,Britney Spears,Piece of Me,64,410
+2000s,The Pussycat Dolls,I Hate This Part,64,410
+2000s,Mary J. Blige,Just Fine,64,410
+2000s,Lupe Fiasco,Superstar (feat. Matthew Santos),64,410
+2000s,Rihanna,Russian Roulette,64,410
+2000s,The Pussycat Dolls,I Hate This Part,64,410
+2000s,Kasabian,Fire,64,410
+2000s,Boys Like Girls,Love Drunk,64,410
+2000s,Ne-Yo,Mad,64,410
+2000s,Blue,All Rise,63,443
+2000s,112,Peaches & Cream,63,443
+2000s,S Club 7,Don't Stop Movin',63,443
+2000s,JAY-Z,Izzo (H.O.V.A.),63,443
+2000s,Diddy,I Need a Girl (Pt. 1) [feat. Usher & Loon],63,443
+2000s,DJ Sammy,Heaven,63,443
+2000s,Beyoncé,Baby Boy (feat. Sean Paul),63,443
+2000s,The Roots,The Seed (2.0),63,443
+2000s,Matchbox Twenty,Unwell,63,443
+2000s,Wayne Wonder,No Letting Go,63,443
+2000s,Beyoncé,Naughty Girl,63,443
+2000s,Kelis,Trick Me,63,443
+2000s,Spiderbait,Black Betty - Edit,63,443
+2000s,T.I.,Bring Em Out,63,443
+2000s,Britney Spears,Everytime,63,443
+2000s,The Chemical Brothers,Galvanize,63,443
+2000s,D4L,Laffy Taffy,63,443
+2000s,Backstreet Boys,Incomplete,63,443
+2000s,Pretty Ricky,Grind With Me,63,443
+2000s,Destiny's Child,Soldier (feat. T.I. & Lil' Wayne),63,443
+2000s,Kaiser Chiefs,I Predict A Riot,63,443
+2000s,Chris Brown,Gimme That,63,443
+2000s,E-40,U and Dat (feat. T. Pain & Kandi Girl),63,443
+2000s,D4L,Laffy Taffy,63,443
+2000s,Amy Winehouse,You Know I'm No Good,63,443
+2000s,Scissor Sisters,I Don't Feel Like Dancin',63,443
+2000s,Christina Aguilera,Ain't No Other Man,63,443
+2000s,Fergie,Fergalicious,63,443
+2000s,Basshunter,Now You're Gone - Video Edit,63,443
+2000s,Alexandra Burke,Hallelujah,63,443
+2000s,Coldplay,Violet Hill,63,443
+2000s,Pitbull,Hotel Room Service,63,443
+2000s,Cascada,Evacuate The Dancefloor,63,443
+2000s,Eminem,We Made You,63,443
+2000s,Selena Gomez & The Scene,Naturally,63,443
+2000s,Sonique,It Feels So Good,62,478
+2000s,All Saints,Pure Shores,62,478
+2000s,Geri Halliwell,It's Raining Men,62,478
+2000s,Kylie Minogue,In Your Eyes,62,478
+2000s,Sophie Ellis-Bextor,Murder On The Dancefloor,62,478
+2000s,Justin Timberlake,Like I Love You,62,478
+2000s,B2K,"Bump, Bump, Bump (feat. P. Diddy)",62,478
+2000s,Beyoncé,"Me, Myself and I",62,478
+2000s,Black Eyed Peas,Don't Phunk With My Heart,62,478
+2000s,Ray J,One Wish,62,478
+2000s,Bow Wow,Let Me Hold You (feat. Omarion),62,478
+2000s,Ryan Cabrera,True,62,478
+2000s,Chingy,Pullin' Me Back,62,478
+2000s,Ludacris,Money Maker,62,478
+2000s,Bubba Sparxxx,Ms. New Booty,62,478
+2000s,Lloyd,Get It Shawty,62,478
+2000s,Fabolous,Make Me Better,62,478
+2000s,Maroon 5,Makes Me Wonder,62,478
+2000s,Boys Like Girls,The Great Escape,62,478
+2000s,Natasha Bedingfield,Pocketful of Sunshine,62,478
+2000s,The-Dream,I Luv Your Girl,62,478
+2000s,Leona Lewis,Run,62,478
+2000s,Trey Songz,Can't Help but Wait,62,478
+2000s,Nickelback,Gotta Be Somebody,62,478
+2000s,The-Dream,Rockin' That Shit,62,478
+2000s,Asher Roth,I Love College,62,478
+2000s,LeAnn Rimes,I Need You,61,504
+2000s,Mary J. Blige,No More Drama,61,504
+2000s,The Supermen Lovers,Starlight - Radio Edit,61,504
+2000s,Lifehouse,Hanging By A Moment,61,504
+2000s,Britney Spears,Overprotected - Radio Edit,61,504
+2000s,Ashanti,Happy,61,504
+2000s,Panjabi MC,Mundian to Bach Ke,61,504
+2000s,Christina Aguilera,Can't Hold Us Down (feat. Lil' Kim),61,504
+2000s,Lumidee,"Never Leave You (Uh Oooh, Uh Oooh)",61,504
+2000s,Nelly,Air Force Ones,61,504
+2000s,Sean Paul,Like Glue,61,504
+2000s,Chingy,Holidae In,61,504
+2000s,Fabolous,Can't Let You Go (feat. Mike Shorey & Lil' Mo),61,504
+2000s,Ja Rule,Mesmerize,61,504
+2000s,Switchfoot,Meant to Live,61,504
+2000s,Lloyd Banks,On Fire,61,504
+2000s,Destiny's Child,Lose My Breath,61,504
+2000s,Avril Lavigne,Nobody's Home,61,504
+2000s,Ying Yang Twins,Salt Shaker,61,504
+2000s,Chingy,One Call Away,61,504
+2000s,G-Unit,Wanna Get To Know You,61,504
+2000s,Special D.,Come With Me - Radio Edit,61,504
+2000s,Alicia Keys,You Don't Know My Name,61,504
+2000s,Ciara,Oh (feat. Ludacris),61,504
+2000s,Kanye West,Diamonds From Sierra Leone - Remix,61,504
+2000s,Franz Ferdinand,Do You Want To,61,504
+2000s,Black Eyed Peas,Don't Lie,61,504
+2000s,Usher,Caught Up,61,504
+2000s,Nelly,Over And Over,61,504
+2000s,Busta Rhymes,Touch It,61,504
+2000s,Madonna,Sorry,61,504
+2000s,Sandi Thom,I Wish I Was a Punk Rocker (with Flowers in My Hair),61,504
+2000s,Shop Boyz,Party Like A Rock Star,61,504
+2000s,Plies,Shawty (feat. T Pain),61,504
+2000s,Bone Thugs-N-Harmony,I Tried,61,504
+2000s,Britney Spears,Break the Ice,61,504
+2000s,Colby O'Donis,What You Got,61,504
+2000s,Plies,"Bust It Baby, Pt. 2 (feat. Ne-Yo)",61,504
+2000s,Black Eyed Peas,Imma Be,61,504
+2000s,Ricky Martin,She Bangs - English Version,60,543
+2000s,Craig David,Fill Me In,60,543
+2000s,*NSYNC,It's Gonna Be Me,60,543
+2000s,Gabrielle,Rise,60,543
+2000s,Christina Milian,AM To PM,60,543
+2000s,Craig David,Fill Me In,60,543
+2000s,S Club 7,Have You Ever,60,543
+2000s,Faith Hill,There You'll Be,60,543
+2000s,Gabrielle,Rise,60,543
+2000s,Christina Milian,When You Look At Me - Radio Edit,60,543
+2000s,Marilyn Manson,Tainted Love,60,543
+2000s,Blue,One Love,60,543
+2000s,Ronan Keating,If Tomorrow Never Comes,60,543
+2000s,Elvis Presley,A Little Less Conversation - JXL Radio Edit Remix,60,543
+2000s,Ludacris,Rollout (My Business),60,543
+2000s,Michelle Branch,All You Wanted,60,543
+2000s,P!nk,Don't Let Me Get Me - Radio Edit,60,543
+2000s,Girls Aloud,Jump,60,543
+2000s,Tyrese,How You Gonna Act Like That,60,543
+2000s,No Doubt,It's My Life,60,543
+2000s,Jennifer Lopez,All I Have (feat. LL Cool J),60,543
+2000s,Gwen Stefani,What You Waiting For?,60,543
+2000s,No Doubt,It's My Life,60,543
+2000s,50 Cent,Outta Control - Remix,60,543
+2000s,Katie Melua,Nine Million Bicycles,60,543
+2000s,Papa Roach,Scars,60,543
+2000s,Nelly,Grillz,60,543
+2000s,Dem Franchize Boyz,"Lean Wit It, Rock Wit It",60,543
+2000s,Keyshia Cole,Last Night,60,543
+2000s,The Game,My Life,60,543
+2000s,Jennifer Hudson,Spotlight,60,543
+2000s,Mýa,Case Of The Ex (Whatcha Gonna Do),59,574
+2000s,JAY-Z,I Just Wanna Love U (Give It 2 Me),59,574
+2000s,Ronan Keating,Life Is A Rollercoaster,59,574
+2000s,Trick Daddy,I'm a Thug,59,574
+2000s,Sugababes,Round Round,59,574
+2000s,Céline Dion,A New Day Has Come - Radio Remix,59,574
+2000s,Disturbing Tha Peace,Move Bitch,59,574
+2000s,Sean Paul,Gimme the Light,59,574
+2000s,Usher,U Don't Have to Call,59,574
+2000s,Mis-Teeq,Scandalous - U.S. Radio Edit,59,574
+2000s,Craig David,Rise & Fall (feat. Sting),59,574
+2000s,Britney Spears,Me Against the Music (feat. Madonna) - LP Version / Video Mix,59,574
+2000s,Ultrabeat,Pretty Green Eyes - Radio Edit,59,574
+2000s,Ginuwine,In Those Jeans,59,574
+2000s,Houston,I Like That,59,574
+2000s,J-Kwon,Tipsy - Club Mix,59,574
+2000s,Lloyd,Southside,59,574
+2000s,LMC,Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit,59,574
+2000s,Girls Aloud,Love Machine,59,574
+2000s,Sean Paul,We Be Burnin',59,574
+2000s,Ludacris,Get Back,59,574
+2000s,Pretty Ricky,Your Body,59,574
+2000s,Kelly Clarkson,Behind These Hazel Eyes,59,574
+2000s,Gwen Stefani,Cool,59,574
+2000s,Ciara,Get Up (feat. Chamillionaire),59,574
+2000s,Keane,Is It Any Wonder?,59,574
+2000s,Razorlight,In The Morning,59,574
+2000s,Gym Class Heroes,Cupid's Chokehold / Breakfast in America - Radio Mix,59,574
+2000s,Fat Joe,Make It Rain,59,574
+2000s,MiMS,This Is Why I'm Hot,59,574
+2000s,Baby Boy Da Prince,The Way I Live - Main Explicit,59,574
+2000s,Wiley,Wearing My Rolex - Radio Edit,59,574
+2000s,OneRepublic,Stop And Stare,59,574
+2000s,Pitbull,I Know You Want Me (Calle Ocho),59,574
+2000s,Soulja Boy,Turn My Swag On,59,574
+2000s,Tinchy Stryder,Number 1,59,574
+2000s,Fabolous,Throw It In The Bag,59,574
+2000s,La Roux,In For The Kill,59,574
+2000s,Madonna,Music,58,612
+2000s,Madonna,American Pie,58,612
+2000s,Vengaboys,Shalala Lala,58,612
+2000s,Blue,If You Come Back,58,612
+2000s,Atomic Kitten,Eternal Flame - Single Version,58,612
+2000s,Ronan Keating,Lovin' Each Day,58,612
+2000s,Truth Hurts,Addictive,58,612
+2000s,Eve,Gangsta Lovin',58,612
+2000s,Musiq Soulchild,Halfcrazy,58,612
+2000s,N.O.R.E.,Nothin',58,612
+2000s,Britney Spears,"I'm Not a Girl, Not Yet a Woman",58,612
+2000s,Daniel Bedingfield,If You're Not The One,58,612
+2000s,Simply Red,Sunrise,58,612
+2000s,Girls Aloud,Sound Of The Underground,58,612
+2000s,Sugababes,Too Lost In You,58,612
+2000s,Nas,I Can,58,612
+2000s,Daniel Bedingfield,If You're Not The One,58,612
+2000s,Sugababes,Too Lost In You,58,612
+2000s,Avril Lavigne,Don't Tell Me,58,612
+2000s,The Streets,Fit but You Know It,58,612
+2000s,Robbie Williams,Tripping,58,612
+2000s,Kaiser Chiefs,Everyday I Love You Less And Less,58,612
+2000s,Destiny's Child,Cater 2 U,58,612
+2000s,Sean Paul,(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version,58,612
+2000s,Akon,Smack That,58,612
+2000s,Keyshia Cole,Let It Go,58,612
+2000s,Elliott Yamin,Wait for You,58,612
+2000s,Take That,Rule The World - Radio Edit,58,612
+2000s,Lil Wayne,Got Money,58,612
+2000s,J. Holiday,Suffocate - Superclean,58,612
+2000s,Fergie,Clumsy,58,612
+2000s,Ciara,Love Sex Magic (feat. Justin Timberlake),58,612
+2000s,The Veronicas,Untouched,58,612
+2000s,Mystikal,Shake Ya Ass,57,645
+2000s,Missy Elliott,One Minute Man (feat. Ludacris),57,645
+2000s,112,It's Over Now,57,645
+2000s,Joe,Stutter (feat. Mystikal) - Double Take Remix,57,645
+2000s,Jennifer Lopez,Play,57,645
+2000s,2Pac,Until The End Of Time,57,645
+2000s,Erick Sermon,Music (feat. Marvin Gaye),57,645
+2000s,Alanis Morissette,Hands Clean,57,645
+2000s,Sugababes,Hole In The Head,57,645
+2000s,Blue,Sorry Seems To Be The Hardest Word,57,645
+2000s,Room 5,Make Luv,57,645
+2000s,50 Cent,"Wanksta - From ""8 Mile"" Soundtrack",57,645
+2000s,Missy Elliott,Gossip Folks (feat. Ludacris),57,645
+2000s,Floetry,Say Yes,57,645
+2000s,Ludacris,Stand Up,57,645
+2000s,Westlife,Mandy,57,645
+2000s,George Michael,Amazing,57,645
+2000s,D12,How Come,57,645
+2000s,N.E.R.D,She Wants To Move,57,645
+2000s,Nelly,My Place,57,645
+2000s,Kelis,Millionaire,57,645
+2000s,Jessica Simpson,With You,57,645
+2000s,Ying Yang Twins,Wait (The Whisper Song),57,645
+2000s,Infernal,From Paris to Berlin,57,645
+2000s,The Pussycat Dolls,Beep,57,645
+2000s,Fergie,London Bridge,57,645
+2000s,Beyoncé,Deja Vu (feat. Jay-Z),57,645
+2000s,Leona Lewis,A Moment Like This,57,645
+2000s,Calvin Harris,Acceptable in the 80's,57,645
+2000s,Omarion,Ice Box,57,645
+2000s,Pretty Ricky,On the Hotline - Amended Version,57,645
+2000s,Justin Timberlake,LoveStoned / I Think She Knows (Interlude),57,645
+2000s,Bow Wow,Outta My System (feat. T-Pain & Johntá Austin),57,645
+2000s,Rich Boy,Throw Some D's,57,645
+2000s,MIKA,Love Today,57,645
+2000s,Madonna,Give It 2 Me,57,645
+2000s,Pendulum,Propane Nightmares,57,645
+2000s,Danity Kane,Damaged,57,645
+2000s,Santana,Into the Night (feat. Chad Kroeger),57,645
+2000s,The Prodigy,Omen,57,645
+2000s,Alexandra Burke,Bad Boys (feat. Flo Rida),57,645
+2000s,Jordin Sparks,Battlefield,57,645
+2000s,Keri Hilson,Knock You Down,57,645
+2000s,Adam Lambert,Whataya Want from Me,57,645
+2000s,K'NAAN,Wavin' Flag,57,645
+2000s,Jagged Edge,Promise,56,690
+2000s,Sunshine Anderson,Heard It All Before,56,690
+2000s,OPM,Heaven Is a Halfpipe (If I Die),56,690
+2000s,3LW,No More (Baby I'ma Do Right),56,690
+2000s,Daniel Bedingfield,Gotta Get Thru This - D'N'D Radio Edit,56,690
+2000s,The Goo Goo Dolls,Here Is Gone,56,690
+2000s,Enrique Iglesias,Escape,56,690
+2000s,Black Eyed Peas,Shut Up,56,690
+2000s,JAY-Z,Excuse Me Miss,56,690
+2000s,O-Zone,Dragostea Din Tei,56,690
+2000s,Ashanti,Only U - No Intro,56,690
+2000s,LL Cool J,Headsprung,56,690
+2000s,Petey Pablo,Freek-A-Leek,56,690
+2000s,Avant,Read Your Mind,56,690
+2000s,Twista,Sunshine (feat. Anthony Hamilton),56,690
+2000s,Ashlee Simpson,Pieces Of Me,56,690
+2000s,Rob Thomas,Lonely No More,56,690
+2000s,Craig David,Don't Love You No More (I'm Sorry),56,690
+2000s,U2,Sometimes You Can't Make It On Your Own,56,690
+2000s,Jibbs,Chain Hang Low,56,690
+2000s,The Raconteurs,"Steady, As She Goes",56,690
+2000s,Ciara,Promise,56,690
+2000s,Wyclef Jean,"Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",56,690
+2000s,Snoop Dogg,Sensual Seduction,56,690
+2000s,Gabriella Cilmi,Sweet About Me,56,690
+2000s,Jack White,Another Way to Die,56,690
+2000s,3 Doors Down,It's Not My Time,56,690
+2000s,Jordin Sparks,One Step At a Time,56,690
+2000s,Kelly Clarkson,Already Gone,56,690
+2000s,Bomfunk MC's,Freestyler,55,719
+2000s,Kylie Minogue,Spinning Around,55,719
+2000s,Avant,Separated,55,719
+2000s,Jagged Edge,He Can't Love U,55,719
+2000s,Sammie,I Like It,55,719
+2000s,Kandi,Don't Think I'm Not,55,719
+2000s,P!nk,There You Go,55,719
+2000s,Case,Missing You,55,719
+2000s,Busta Rhymes,Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix,55,719
+2000s,Kylie Minogue,Spinning Around,55,719
+2000s,Kylie Minogue,Love at First Sight,55,719
+2000s,Ashanti,Baby,55,719
+2000s,Jaheim,Put That Woman First,55,719
+2000s,Will Young,Leave Right Now,55,719
+2000s,Alicia Keys,Diary (feat. Tony! Toni! Tone! & Jermaine Paul),55,719
+2000s,Katie Melua,The Closest Thing to Crazy,55,719
+2000s,Will Young,Leave Right Now,55,719
+2000s,Jeezy,Soul Survivor,55,719
+2000s,Destiny's Child,Girl,55,719
+2000s,Diddy,Come to Me (feat. Nicole Scherzinger),55,719
+2000s,The Ting Tings,Shut Up and Let Me Go,55,719
+2000s,"H ""two"" O",What's It Gonna Be (feat. Platnum),55,719
+2000s,John Legend,Green Light (feat. André 3000),55,719
+2000s,Calvin Harris,I'm Not Alone - Radio Edit,55,719
+2000s,Taylor Swift,You Belong With Me,55,719
+2000s,Rihanna,Hard,55,719
+2000s,M.O.P.,Cold as Ice,54,745
+2000s,Moloko,The Time Is Now,54,745
+2000s,Erykah Badu,Bag Lady,54,745
+2000s,Matchbox Twenty,Bent,54,745
+2000s,iio,Rapture (feat.Nadia Ali),54,745
+2000s,Emma Bunton,What Took You So Long?,54,745
+2000s,Rui Da Silva,Touch Me (Radio Edit) [feat. Cassandra],54,745
+2000s,DJ Pied Piper & The Masters Of Ceremonies,Do You Really Like It? - Radio Edit,54,745
+2000s,Ludacris,Southern Hospitality (Featuring Pharrell),54,745
+2000s,Holly Valance,Kiss Kiss,54,745
+2000s,Delta Goodrem,Born to Try,54,745
+2000s,Delta Goodrem,Lost Without You,54,745
+2000s,Youngbloodz,Damn! (feat. Lil' Jon) - Club Mix,54,745
+2000s,Kelly Rowland,Stole,54,745
+2000s,Bodyrockers,I Like The Way - Radio Edit,54,745
+2000s,Snoop Dogg,Signs,54,745
+2000s,Kanye West,Stronger,54,745
+2000s,Gym Class Heroes,Cookie Jar (feat. The-Dream),54,745
+2000s,Jordin Sparks,Tattoo,54,745
+2000s,Pixie Lott,"Mama Do (Uh Oh, Uh Oh)",54,745
+2000s,Lily Allen,Not Fair,54,745
+2000s,Trey Songz,Say Aah (feat. Fabolous),54,745
+2000s,Aaliyah,Try Again,53,767
+2000s,Da Brat,What'chu Like (feat. Tyrese),53,767
+2000s,Madonna,Don't Tell Me,53,767
+2000s,Steps,It's the Way You Make Me Feel,53,767
+2000s,Madonna,Die Another Day,53,767
+2000s,Jennifer Lopez,I'm Gonna Be Alright (feat. Nas),53,767
+2000s,Gareth Gates,Anyone of Us (Stupid Mistake),53,767
+2000s,Faith Evans,I Love You,53,767
+2000s,A1,Caught in the Middle,53,767
+2000s,Black Eyed Peas,Let's Get It Started - Spike Mix,53,767
+2000s,Britney Spears,My Prerogative,53,767
+2000s,JAY-Z,Dirt Off Your Shoulder,53,767
+2000s,Akon,I Wanna Love You,53,767
+2000s,Manic Street Preachers,Your Love Alone Is Not Enough (feat. Nina Persson),53,767
+2000s,Sam Sparro,Black & Gold - Radio Edit,53,767
+2000s,Lily Allen,The Fear,53,767
+2000s,Ruff Endz,No More,52,783
+2000s,Next,Wifey,52,783
+2000s,P!nk,Most Girls,52,783
+2000s,Carl Thomas,I Wish,52,783
+2000s,Ricky Martin,Nobody Wants to Be Lonely (with Christina Aguilera),52,783
+2000s,Brandy,Full Moon,52,783
+2000s,Alicia Keys,A Woman's Worth,52,783
+2000s,Eminem,Ass Like That,52,783
+2000s,David Banner,Play,52,783
+2000s,Ciara,"1, 2 Step (feat. Missy Elliott) - Main",52,783
+2000s,Amerie,1 Thing,52,783
+2000s,Natalie Imbruglia,Shiver,52,783
+2000s,Huey,"Pop, Lock & Drop It - Video Edit",52,783
+2000s,Akon,Don't Matter,52,783
+2000s,Just Jack,Starz In Their Eyes,52,783
+2000s,Kanye West,Flashing Lights,52,783
+2000s,So Solid Crew,21 Seconds,51,799
+2000s,Outkast,The Whole World (feat. Killer Mike),51,799
+2000s,DJ Casper,Cha Cha Slide - Hardino Mix,51,799
+2000s,Ludacris,Runaway Love,51,799
+2000s,Alesha Dixon,The Boy Does Nothing,51,799
+2000s,The Ting Tings,That's Not My Name,51,799
+2000s,Gavin DeGraw,In Love With a Girl,51,799
+2000s,Mario,Break Up,51,799
+2000s,Kris Allen,Live Like We're Dying,51,799
+2000s,Brandy,Another Day in Paradise - R&B-Version,50,808
+2000s,Fragma,Everytime You Need Me - Radio Version,50,808
+2000s,Roger Sanchez,Another Chance,50,808
+2000s,*NSYNC,Girlfriend,50,808
+2000s,Counting Crows,Big Yellow Taxi,50,808
+2000s,Ashanti,Rain On Me,50,808
+2000s,Trillville,Some Cut,50,808
+2000s,Alicia Keys,Karma,50,808
+2000s,Kelis,Bossy,50,808
+2000s,Jason Aldean,Big Green Tractor,50,808
+2000s,Debelah Morgan,Dance with Me,49,818
+2000s,Fuel,Hemorrhage (In My Hands),49,818
+2000s,Missy Elliott,4 My People (feat. Eve),49,818
+2000s,B2K,Uh Huh,49,818
+2000s,Fatman Scoop,Be Faithful,49,818
+2000s,Frankie J,Don't Wanna Try,49,818
+2000s,Black Eyed Peas,Hey Mama,49,818
+2000s,JoJo,Leave (Get Out) - Radio Edit,49,818
+2000s,Bob Sinclar,Love Generation - Radio Edit,49,818
+2000s,James Morrison,Wonderful World,49,818
+2000s,Katy Perry,Waking Up In Vegas,49,818
+2000s,Tamia,Stranger in My House,48,829
+2000s,Robbie Williams,Eternity,48,829
+2000s,Dirty Vegas,Days Go By,48,829
+2000s,Blue,U Make Me Wanna - Radio Edit,48,829
+2000s,Lil' Kim,The Jump Off (feat. Mr. Cheeks) - Remix,48,829
+2000s,Mýa,My Love Is Like...Wo - Main Mix,48,829
+2000s,Amanda Perez,Angel,48,829
+2000s,Ludacris,Splash Waterfalls,48,829
+2000s,Eminem,Like Toy Soldiers,48,829
+2000s,JoJo,Too Little Too Late,48,829
+2000s,Beyoncé,Sweet Dreams,48,829
+2000s,Janet Jackson,Doesn't Really Matter,47,840
+2000s,Five,Let's Dance - Radio Edit,47,840
+2000s,Charli Baltimore,Down 4 U,47,840
+2000s,Lil Jon & The East Side Boyz,Get Low,47,840
+2000s,Kelly Clarkson,Miss Independent,47,840
+2000s,Kylie Minogue,I Believe in You,47,840
+2000s,Kanye West,Can't Tell Me Nothing,47,840
+2000s,Kanye West,Homecoming,47,840
+2000s,Kylie Minogue,Wow,47,840
+2000s,Sidney Samson,Riverside,47,840
+2000s,Mis-Teeq,All I Want - Sunship Radio Edit,46,850
+2000s,Daniel Bedingfield,Gotta Get Thru This - D'N'D Radio Edit,46,850
+2000s,Lemar,If There's Any Justice,46,850
+2000s,Meck,Thunder in My Heart Again (Radio Edit),46,850
+2000s,Orson,No Tomorrow,46,850
+2000s,Mark Ronson,Stop Me (feat. Daniel Merriweather),46,850
+2000s,will.i.am,Heartbreaker,46,850
+2000s,*NSYNC,Gone,45,857
+2000s,Sugababes,Freak Like Me,45,857
+2000s,Big Brovaz,Nu Flow,45,857
+2000s,Christina Milian,Dip It Low,45,857
+2000s,Beyoncé,Check On It (feat. Slim Thug),45,857
+2000s,Enrique Iglesias,Do You Know? (The Ping Pong Song),45,857
+2000s,Kanye West,Good Life,45,857
+2000s,Dido,White Flag,44,864
+2000s,Dido,White Flag,44,864
+2000s,Jessica Simpson,Irresistible,43,866
+2000s,Brandy,What About Us?,43,866
+2000s,Scissor Sisters,Comfortably Numb,43,866
+2000s,Mariah Carey,Loverboy,42,869
+2000s,Aaliyah,More Than A Woman,42,869
+2000s,Jay Sean,Eyes On You - Radio Mix,42,869
+2000s,Lil' Flip,Sunshine (feat. Lea),42,869
+2000s,Brian McFadden,Almost Here,42,869
+2000s,LL Cool J,Control Myself,42,869
+2000s,Fort Minor,Where'd You Go (feat. Holly Brook & Jonah Matranga),42,869
+2000s,Fat Joe,Get It Poppin' (feat. Nelly) - Radio Version,41,876
+2000s,Keri Hilson,Turnin Me On - Original Dirty,41,876
+2000s,Default,Wasting My Time,40,878
+2000s,Armand Van Helden,My My My - Radio Edit,40,878
+2000s,Snoop Dogg,Drop It Like It's Hot,39,880
+2000s,Snoop Dogg,Drop It Like It's Hot,39,880
+2000s,Rachel Stevens,Sweet Dreams My LA Ex - Radio Edit,38,882
+2000s,Enrique Iglesias,Not In Love - Radio Mix,37,883
+2000s,Nick Lachey,What's Left Of Me,37,883
+2000s,Bow Wow,Bounce With Me (feat. Xscape) - Edited Album Version,36,885
+2000s,Aaliyah,Miss You - Main,36,885
+2000s,Robyn,With Every Heartbeat,36,885
+2000s,Gareth Gates,Unchained Melody,35,888
+2000s,Snow Patrol,You're All I Have,35,888
+2000s,Robbie Williams,Radio,33,890
+2000s,Mary J. Blige,Rainy Dayz,32,891
+2000s,Akon,Bananza (Belly Dancer),28,892
+2000s,No Doubt,Underneath It All,27,893
+2000s,No Doubt,Hella Good,26,894
+2000s,No Doubt,Hey Baby,24,895
+2000s,Akon,Lonely,21,896
+2000s,Camille Jones,The Creeps - Fedde Le Grand Radio Mix,17,897
+2000s,Akon,Locked Up,16,898
+2000s,Daddy Yankee,Gasolina,11,899
+2000s,Baby Bash,"Baby, I'm Back",4,900
+2000s,The White Stripes,Seven Nation Army,3,901
+2000s,T-Pain,Bartender (feat. Akon),3,901
+2000s,Jay Sean,Down,3,901
+2000s,Jay Sean,Down,3,901
+2000s,LL Cool J,Luv U Better,2,905
+2000s,Natasha Bedingfield,Unwritten,2,905
+2000s,T-Pain,Buy U a Drank (Shawty Snappin') (feat. Yung Joc),2,905
+2000s,The xx,Intro,2,905
+2000s,Jay Sean,Do You Remember,2,905
+2000s,Nelly Furtado,I'm Like A Bird,1,910
+2000s,Nelly Furtado,Turn Off The Light,1,910
+2000s,Westlife,You Raise Me Up,1,910
+2000s,Shayne Ward,That's My Goal,1,910
+2000s,Shayne Ward,No Promises,1,910
+2000s,M.I.A.,Paper Planes,1,910
+2000s,Ray J,Sexy Can I feat. Yung Berg,1,910
+2000s,Adele,Chasing Pavements,1,910
+2000s,Oasis,Go Let It Out,0,918
+2000s,Jennifer Lopez,Ain't It Funny,0,918
+2000s,Musiq Soulchild,Love,0,918
+2000s,Basement Jaxx,Romeo,0,918
+2000s,Electric Six,Danger! High Voltage - Soulchild Radio Mix,0,918
+2000s,Basement Jaxx,Good Luck,0,918
+2000s,Mariah Carey,It's Like That,0,918
+2000s,Mariah Carey,Don't Forget About Us - Radio Edit,0,918
+2000s,T-Pain,I'm Sprung,0,918
+2000s,P!nk,Stupid Girls,0,918
+2000s,Rascal Flatts,Life is a Highway,0,918
+2000s,Westlife,The Rose,0,918
+2000s,T-Pain,I'm N Luv (Wit a Stripper) (feat. Mike Jones),0,918
+2000s,P!nk,Who Knew,0,918
+2000s,Mark Ronson,Valerie (feat. Amy Winehouse) - Version Revisited,0,918
+2000s,Eric Prydz,Proper Education - Radio Edit,0,918
+2000s,P!nk,U + Ur Hand,0,918
+2000s,Jim Jones,We Fly High,0,918
+2000s,Miley Cyrus,See You Again,0,918
+2000s,Mariah Carey,Touch My Body,0,918
+2000s,T-Pain,Can't Believe It (feat. Lil' Wayne),0,918
+2000s,JLS,Beat Again - Radio Edit,0,918
+2010s,The Neighbourhood,Sweater Weather,89,1
+2010s,Tom Odell,Another Love,88,2
+2010s,WILLOW,Wait a Minute!,86,3
+2010s,Billie Eilish,lovely (with Khalid),86,3
+2010s,Billie Eilish,lovely (with Khalid),86,3
+2010s,Bruno Mars,Locked out of Heaven,85,6
+2010s,Bruno Mars,Locked out of Heaven,85,6
+2010s,The Neighbourhood,Daddy Issues,85,6
+2010s,Avicii,The Nights,85,6
+2010s,Ed Sheeran,Perfect,85,6
+2010s,Post Malone,Circles,85,6
+2010s,Arctic Monkeys,Why'd You Only Call Me When You're High?,84,12
+2010s,Arctic Monkeys,Do I Wanna Know?,84,12
+2010s,John Legend,All of Me,84,12
+2010s,The Weeknd,The Hills,84,12
+2010s,Drake,One Dance,84,12
+2010s,Ed Sheeran,Shape of You,84,12
+2010s,Sean Paul,No Lie,84,12
+2010s,Billie Eilish,Bored,84,12
+2010s,Juice WRLD,Lucid Dreams,84,12
+2010s,Gesaffelstein,Lost in the Fire (feat. The Weeknd),84,12
+2010s,Lewis Capaldi,Someone You Loved,84,12
+2010s,Daft Punk,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,83,23
+2010s,Bruno Mars,When I Was Your Man,83,23
+2010s,One Direction,Night Changes,83,23
+2010s,Twenty One Pilots,Stressed Out,83,23
+2010s,Tame Impala,The Less I Know The Better,83,23
+2010s,The Chainsmokers,Closer,83,23
+2010s,The Chainsmokers,Something Just Like This,83,23
+2010s,Travis Scott,goosebumps,83,23
+2010s,XXXTENTACION,Jocelyn Flores,83,23
+2010s,Post Malone,rockstar (feat. 21 Savage),83,23
+2010s,Billie Eilish,bad guy,83,23
+2010s,Ariana Grande,7 rings,83,23
+2010s,Coldplay,Paradise,82,35
+2010s,Foster The People,Pumped Up Kicks,82,35
+2010s,JAY-Z,Ni**as In Paris,82,35
+2010s,Maroon 5,Payphone,82,35
+2010s,Coldplay,Paradise,82,35
+2010s,One Direction,What Makes You Beautiful,82,35
+2010s,MKTO,Classic,82,35
+2010s,Mark Ronson,Uptown Funk (feat. Bruno Mars),82,35
+2010s,Taylor Swift,Blank Space,82,35
+2010s,Coldplay,Hymn for the Weekend,82,35
+2010s,Shawn Mendes,Treat You Better,82,35
+2010s,French Montana,Unforgettable,82,35
+2010s,XXXTENTACION,Moonlight,82,35
+2010s,XXXTENTACION,SAD!,82,35
+2010s,girl in red,we fell in love in october,82,35
+2010s,Marshmello,Happier,82,35
+2010s,Lady Gaga,Shallow,82,35
+2010s,Alec Benjamin,Let Me Down Slowly,82,35
+2010s,Eminem,Love The Way You Lie,81,53
+2010s,Justin Bieber,Baby,81,53
+2010s,Pitbull,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",81,53
+2010s,Gym Class Heroes,Stereo Hearts (feat. Adam Levine),81,53
+2010s,Macklemore & Ryan Lewis,Can't Hold Us (feat. Ray Dalton),81,53
+2010s,Imagine Dragons,Demons,81,53
+2010s,One Direction,Story of My Life,81,53
+2010s,Ed Sheeran,Thinking out Loud,81,53
+2010s,Wiz Khalifa,See You Again (feat. Charlie Puth),81,53
+2010s,Hozier,Take Me To Church,81,53
+2010s,DJ Snake,Let Me Love You,81,53
+2010s,MGMT,Little Dark Age,81,53
+2010s,Lil Uzi Vert,XO Tour Llif3,81,53
+2010s,Post Malone,Congratulations,81,53
+2010s,Drake,God's Plan,81,53
+2010s,Calvin Harris,One Kiss (with Dua Lipa),81,53
+2010s,Travis Scott,SICKO MODE,81,53
+2010s,Lauv,I Like Me Better,81,53
+2010s,Regard,Ride It,81,53
+2010s,Travis Scott,SICKO MODE,81,53
+2010s,Bad Bunny,Callaita,81,53
+2010s,Kesha,TiK ToK,80,74
+2010s,Taio Cruz,Dynamite,80,74
+2010s,Sam Smith,Stay With Me,80,74
+2010s,MAGIC!,Rude,80,74
+2010s,Pitbull,Timber (feat. Ke$ha),80,74
+2010s,Paloma Faith,Only Love Can Hurt Like This,80,74
+2010s,Coldplay,A Sky Full of Stars,80,74
+2010s,Vance Joy,Riptide,80,74
+2010s,Fall Out Boy,Centuries,80,74
+2010s,Pitbull,Time of Our Lives,80,74
+2010s,Justin Bieber,Sorry,80,74
+2010s,Justin Bieber,Sorry,80,74
+2010s,Twenty One Pilots,Heathens,80,74
+2010s,Rihanna,Needed Me,80,74
+2010s,Twenty One Pilots,Ride,80,74
+2010s,Imagine Dragons,Whatever It Takes,80,74
+2010s,Chord Overstreet,Hold On,80,74
+2010s,Offset,Ric Flair Drip (with Metro Boomin),80,74
+2010s,Zedd,The Middle,80,74
+2010s,Imagine Dragons,Natural,80,74
+2010s,The Weeknd,Call Out My Name,80,74
+2010s,Kendrick Lamar,All The Stars (with SZA),80,74
+2010s,Marshmello,Silence,80,74
+2010s,Post Malone,Better Now,80,74
+2010s,Anne-Marie,2002,80,74
+2010s,Kendrick Lamar,LOVE. FEAT. ZACARI.,80,74
+2010s,Lana Del Rey,Doin' Time,80,74
+2010s,J. Cole,MIDDLE CHILD,80,74
+2010s,"Tyler, The Creator",EARFQUAKE,80,74
+2010s,Post Malone,Better Now,80,74
+2010s,Panic! At The Disco,High Hopes,80,74
+2010s,Eminem,Not Afraid,79,105
+2010s,Usher,DJ Got Us Fallin' In Love (feat. Pitbull),79,105
+2010s,Jennifer Lopez,On The Floor,79,105
+2010s,Selena Gomez & The Scene,Love You Like A Love Song,79,105
+2010s,Grouplove,Tongue Tied,79,105
+2010s,Calvin Harris,Feel So Close - Radio Edit,79,105
+2010s,David Guetta,Titanium (feat. Sia),79,105
+2010s,Demi Lovato,Heart Attack,79,105
+2010s,Of Monsters and Men,Little Talks,79,105
+2010s,Paramore,Still into You,79,105
+2010s,Pharrell Williams,"Happy - From ""Despicable Me 2""",79,105
+2010s,Maroon 5,Animals,79,105
+2010s,One Direction,Steal My Girl,79,105
+2010s,Taylor Swift,Shake It Off,79,105
+2010s,Sam Smith,Like I Can,79,105
+2010s,Avicii,Waiting For Love,79,105
+2010s,One Direction,Drag Me Down,79,105
+2010s,The Weeknd,Can't Feel My Face,79,105
+2010s,Ariana Grande,One Last Time,79,105
+2010s,The Chainsmokers,Don't Let Me Down,79,105
+2010s,Calvin Harris,This Is What You Came For (feat. Rihanna),79,105
+2010s,Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),79,105
+2010s,DNCE,Cake By The Ocean,79,105
+2010s,Frank Ocean,Pink + White,79,105
+2010s,Sam Smith,Too Good At Goodbyes,79,105
+2010s,Future,Mask Off,79,105
+2010s,Calvin Harris,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",79,105
+2010s,Cardi B,I Like It,79,105
+2010s,NF,Let You Down,79,105
+2010s,XXXTENTACION,changes,79,105
+2010s,Lil Baby,Yes Indeed,79,105
+2010s,Dean Lewis,Be Alright,79,105
+2010s,Lil Nas X,Old Town Road - Remix,79,105
+2010s,Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,79,105
+2010s,Mark Ronson,Nothing Breaks Like a Heart (feat. Miley Cyrus),79,105
+2010s,Daddy Yankee,Con Calma,79,105
+2010s,Post Malone,Wow.,79,105
+2010s,Dua Lipa,Don't Start Now,79,105
+2010s,Jonas Brothers,Sucker,79,105
+2010s,Bruno Mars,Grenade,78,144
+2010s,Miguel,Sure Thing,78,144
+2010s,Carly Rae Jepsen,Call Me Maybe,78,144
+2010s,MARINA,Primadonna,78,144
+2010s,Kesha,Die Young,78,144
+2010s,The Script,Hall of Fame (feat. will.i.am),78,144
+2010s,will.i.am,Scream & Shout,78,144
+2010s,Justin Timberlake,Mirrors,78,144
+2010s,Bruno Mars,Treasure,78,144
+2010s,Miley Cyrus,We Can't Stop,78,144
+2010s,Sia,Chandelier,78,144
+2010s,Becky G,Shower,78,144
+2010s,Ellie Goulding,"Love Me Like You Do - From ""Fifty Shades Of Grey""",78,144
+2010s,Calvin Harris,Outside (feat. Ellie Goulding),78,144
+2010s,Taylor Swift,Wildest Dreams,78,144
+2010s,Shawn Mendes,Stitches,78,144
+2010s,Bryson Tiller,Don't,78,144
+2010s,Alan Walker,Faded,78,144
+2010s,Bryson Tiller,Don't,78,144
+2010s,The Weeknd,I Feel It Coming,78,144
+2010s,Bruno Mars,24K Magic,78,144
+2010s,Dynoro,In My Mind,78,144
+2010s,Marshmello,FRIENDS,78,144
+2010s,Ariana Grande,God is a woman,78,144
+2010s,Selena Gomez,Wolves,78,144
+2010s,Dua Lipa,IDGAF,78,144
+2010s,Shawn Mendes,Señorita,78,144
+2010s,Lil Tecca,Ransom,78,144
+2010s,Meek Mill,Going Bad (feat. Drake),78,144
+2010s,Polo G,Pop Out (feat. Lil Tjay),78,144
+2010s,21 Savage,a lot,78,144
+2010s,Dave,Location (feat. Burna Boy),78,144
+2010s,Tones And I,Dance Monkey,78,144
+2010s,Dominic Fike,3 Nights,78,144
+2010s,Taylor Swift,Cruel Summer,78,144
+2010s,Bruno Mars,Just the Way You Are,77,179
+2010s,Stromae,Alors on danse - Radio Edit,77,179
+2010s,Maroon 5,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",77,179
+2010s,The Wanted,Glad You Came,77,179
+2010s,Flo Rida,Whistle,77,179
+2010s,Avicii,Levels - Radio Edit,77,179
+2010s,Snoop Dogg,"Young, Wild & Free (feat. Bruno Mars)",77,179
+2010s,Flo Rida,Wild Ones (feat. Sia),77,179
+2010s,Owl City,Good Time,77,179
+2010s,Train,Drive By,77,179
+2010s,Lorde,Royals,77,179
+2010s,Imagine Dragons,Radioactive,77,179
+2010s,Pitbull,Feel This Moment (feat. Christina Aguilera),77,179
+2010s,Miley Cyrus,Wrecking Ball,77,179
+2010s,Rixton,Me And My Broken Heart,77,179
+2010s,Jessie J,Bang Bang,77,179
+2010s,Justin Bieber,What Do You Mean?,77,179
+2010s,Jeremih,oui,77,179
+2010s,Drake,Hotline Bling,77,179
+2010s,R. City,Locked Away (feat. Adam Levine),77,179
+2010s,Taylor Swift,Style,77,179
+2010s,One Direction,Perfect,77,179
+2010s,G-Eazy,"Me, Myself & I",77,179
+2010s,Mike Posner,I Took A Pill In Ibiza - Seeb Remix,77,179
+2010s,Garrett Nash,"i hate u, i love u (feat. olivia o'brien)",77,179
+2010s,Lil Peep,Save That Shit,77,179
+2010s,ZAYN,Dusk Till Dawn (feat. Sia) - Radio Edit,77,179
+2010s,Playboi Carti,Magnolia,77,179
+2010s,Martin Garrix,Scared to Be Lonely,77,179
+2010s,Avicii,Without You (feat. Sandro Cavazza),77,179
+2010s,Ariana Grande,no tears left to cry,77,179
+2010s,Sheck Wes,Mo Bamba,77,179
+2010s,Drake,Nonstop,77,179
+2010s,Drake,Nice For What,77,179
+2010s,Post Malone,Psycho (feat. Ty Dolla $ign),77,179
+2010s,Halsey,Without Me,77,179
+2010s,Kodak Black,ZEZE (feat. Travis Scott & Offset),77,179
+2010s,Mabel,Don't Call Me Up,77,179
+2010s,Bad Bunny,MIA (feat. Drake),77,179
+2010s,Ariana Grande,boyfriend (with Social House),77,179
+2010s,David Guetta,Memories (feat. Kid Cudi),76,219
+2010s,Flo Rida,Club Can't Handle Me (feat. David Guetta),76,219
+2010s,Bruno Mars,Talking to the Moon,76,219
+2010s,Black Eyed Peas,Just Can’t Get Enough,76,219
+2010s,Waka Flocka Flame,No Hands (feat. Roscoe Dash & Wale),76,219
+2010s,M83,Midnight City,76,219
+2010s,Kanye West,All Of The Lights,76,219
+2010s,Selena Gomez & The Scene,Who Says,76,219
+2010s,P!nk,Raise Your Glass,76,219
+2010s,fun.,We Are Young (feat. Janelle Monáe),76,219
+2010s,Flo Rida,Good Feeling,76,219
+2010s,Swedish House Mafia,Don't You Worry Child - Radio Edit,76,219
+2010s,P!nk,Try,76,219
+2010s,Taylor Swift,I Knew You Were Trouble.,76,219
+2010s,A$AP Rocky,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",76,219
+2010s,P!nk,Try,76,219
+2010s,One Direction,Best Song Ever,76,219
+2010s,Rihanna,Stay,76,219
+2010s,Nico & Vinz,Am I Wrong,76,219
+2010s,Lorde,Team,76,219
+2010s,The Weeknd,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",76,219
+2010s,Robin Schulz,Sugar (feat. Francesco Yates),76,219
+2010s,Calvin Harris,How Deep Is Your Love,76,219
+2010s,Rob $tone,Chill Bill (feat. J. Davi$ & Spooks),76,219
+2010s,Flo Rida,My House,76,219
+2010s,Kygo,Firestone,76,219
+2010s,Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",76,219
+2010s,Martin Garrix,In the Name of Love,76,219
+2010s,Flo Rida,My House,76,219
+2010s,Coldplay,Adventure of a Lifetime,76,219
+2010s,Bryson Tiller,Exchange,76,219
+2010s,Rob $tone,Chill Bill (feat. J. Davi$ & Spooks),76,219
+2010s,Rag'n'Bone Man,Human,76,219
+2010s,Taylor Swift,Look What You Made Me Do,76,219
+2010s,Alessia Cara,Scars To Your Beautiful,76,219
+2010s,DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",76,219
+2010s,Nio Garcia,Te Boté - Remix,76,219
+2010s,Lil Nas X,Old Town Road,76,219
+2010s,Drake,Money In The Grave (Drake ft. Rick Ross),76,219
+2010s,Anuel AA,China,76,219
+2010s,Ariana Grande,"break up with your girlfriend, i'm bored",76,219
+2010s,David Guetta,Sexy Bitch (feat. Akon),75,260
+2010s,Mike Posner,Cooler Than Me - Single Mix,75,260
+2010s,Wiz Khalifa,Black and Yellow,75,260
+2010s,Rihanna,We Found Love,75,260
+2010s,Bruno Mars,The Lazy Song,75,260
+2010s,Bruno Mars,Marry You,75,260
+2010s,Rihanna,We Found Love,75,260
+2010s,Rihanna,Diamonds,75,260
+2010s,Nicki Minaj,Starships,75,260
+2010s,James Arthur,Impossible,75,260
+2010s,Drake,Take Care,75,260
+2010s,Eminem,The Monster,75,260
+2010s,Calvin Harris,Blame (feat. John Newman),75,260
+2010s,Alex & Sierra,Little Do You Know,75,260
+2010s,David Guetta,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",75,260
+2010s,X Ambassadors,Renegades,75,260
+2010s,Big Sean,I Don't Fuck With You,75,260
+2010s,Rihanna,Work,75,260
+2010s,Lil Wayne,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",75,260
+2010s,X Ambassadors,Renegades,75,260
+2010s,Fifth Harmony,Work from Home (feat. Ty Dolla $ign),75,260
+2010s,Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),75,260
+2010s,Rae Sremmurd,Swang,75,260
+2010s,Rae Sremmurd,Black Beatles,75,260
+2010s,Jason Derulo,Swalla (feat. Nicki Minaj & Ty Dolla $ign),75,260
+2010s,Kygo,It Ain't Me (with Selena Gomez),75,260
+2010s,G-Eazy,Him & I (with Halsey),75,260
+2010s,Migos,Walk It Talk It,75,260
+2010s,Drake,In My Feelings,75,260
+2010s,benny blanco,Eastside (with Halsey & Khalid),75,260
+2010s,Bazzi,Mine,75,260
+2010s,Mustard,Pure Water (with Migos),75,260
+2010s,MEDUZA,Piece Of Your Heart,75,260
+2010s,A Boogie Wit da Hoodie,Swervin (feat. 6ix9ine),75,260
+2010s,Billie Eilish,bury a friend,75,260
+2010s,Anuel AA,Secreto,75,260
+2010s,Sam Smith,Dancing With A Stranger (with Normani),75,260
+2010s,Taio Cruz,Break Your Heart,74,297
+2010s,Sean Kingston,Eenie Meenie,74,297
+2010s,B.o.B,Airplanes (feat. Hayley Williams of Paramore),74,297
+2010s,B.o.B,Nothin' on You (feat. Bruno Mars),74,297
+2010s,Katy Perry,Last Friday Night (T.G.I.F.),74,297
+2010s,Avril Lavigne,What the Hell,74,297
+2010s,Drake,Headlines,74,297
+2010s,Pitbull,International Love (feat. Chris Brown),74,297
+2010s,Adele,Skyfall,74,297
+2010s,Maroon 5,One More Night,74,297
+2010s,Jessie J,Domino,74,297
+2010s,Disclosure,Latch,74,297
+2010s,Kelly Clarkson,Stronger (What Doesn't Kill You),74,297
+2010s,Drake,The Motto,74,297
+2010s,Bruno Mars,It Will Rain,74,297
+2010s,John Newman,Love Me Again,74,297
+2010s,Bastille,Pompeii,74,297
+2010s,Katy Perry,Dark Horse,74,297
+2010s,Tove Lo,Habits (Stay High),74,297
+2010s,Jeremih,Don't Tell 'Em,74,297
+2010s,Ariana Grande,Love Me Harder,74,297
+2010s,Disclosure,Latch,74,297
+2010s,5 Seconds of Summer,She Looks So Perfect,74,297
+2010s,The Script,Superheroes,74,297
+2010s,Galantis,Runaway (U & I),74,297
+2010s,Fetty Wap,679 (feat. Remy Boyz),74,297
+2010s,Ariana Grande,Love Me Harder,74,297
+2010s,Kygo,Stole the Show,74,297
+2010s,Jack Ü,Where Are Ü Now (with Justin Bieber),74,297
+2010s,Future,Low Life (feat. The Weeknd),74,297
+2010s,Calvin Harris,My Way,74,297
+2010s,Drake,Too Good,74,297
+2010s,A$AP Ferg,Plain Jane,74,297
+2010s,21 Savage,Bank Account,74,297
+2010s,Natti Natasha,Criminal,74,297
+2010s,Macklemore,Glorious (feat. Skylar Grey),74,297
+2010s,Nicky Jam,X,74,297
+2010s,Dennis Lloyd,Nevermind,74,297
+2010s,Bruno Mars,Finesse - Remix; feat. Cardi B,74,297
+2010s,Camila Cabello,Never Be the Same,74,297
+2010s,Pedro Capó,Calma - Remix,74,297
+2010s,Kehlani,Nights Like This (feat. Ty Dolla $ign),74,297
+2010s,Rihanna,Only Girl (In The World),73,339
+2010s,Far East Movement,Like A G6,73,339
+2010s,Usher,OMG (feat. will.i.am),73,339
+2010s,Nelly,Just A Dream,73,339
+2010s,Lady A,Need You Now,73,339
+2010s,LMFAO,Party Rock Anthem,73,339
+2010s,Rihanna,S&M,73,339
+2010s,Jessie J,Price Tag,73,339
+2010s,Hot Chelle Rae,Tonight Tonight,73,339
+2010s,Kanye West,Mercy,73,339
+2010s,Linkin Park,BURN IT DOWN,73,339
+2010s,Katy Perry,Part Of Me,73,339
+2010s,Justin Bieber,Beauty And A Beat,73,339
+2010s,Katy Perry,Roar,73,339
+2010s,Passenger,Let Her Go,73,339
+2010s,Bobby Shmurda,Hot N*gga,73,339
+2010s,Milky Chance,Stolen Dance,73,339
+2010s,Ariana Grande,Problem,73,339
+2010s,Major Lazer,Lean On (feat. MØ & DJ Snake),73,339
+2010s,Fifth Harmony,Worth It (feat. Kid Ink),73,339
+2010s,Rihanna,Bitch Better Have My Money,73,339
+2010s,Travis Scott,Antidote,73,339
+2010s,Zara Larsson,Never Forget You,73,339
+2010s,Shawn Mendes,I Know What You Did Last Summer,73,339
+2010s,Tory Lanez,Say It,73,339
+2010s,The Chainsmokers,Roses,73,339
+2010s,Taylor Swift,...Ready For It?,73,339
+2010s,The Vamps,All Night,73,339
+2010s,The Chainsmokers,Paris,73,339
+2010s,Tyga,Taste (feat. Offset),73,339
+2010s,BlocBoy JB,Look Alive (feat. Drake),73,339
+2010s,The Chainsmokers,This Feeling,73,339
+2010s,Maroon 5,Girls Like You (feat. Cardi B) - Cardi B Version,73,339
+2010s,Khalid,Love Lies (with Normani),73,339
+2010s,A Boogie Wit da Hoodie,Look Back at It,73,339
+2010s,Cardi B,Money,73,339
+2010s,Calvin Harris,Giant (with Rag'n'Bone Man),73,339
+2010s,Cardi B,Please Me,73,339
+2010s,Marshmello,One Thing Right,73,339
+2010s,Sam Smith,How Do You Sleep?,73,339
+2010s,Katy Perry,California Gurls,72,379
+2010s,Travie McCoy,Billionaire (feat. Bruno Mars),72,379
+2010s,Katy Perry,Firework,72,379
+2010s,David Guetta,Where Them Girls At (feat. Nicki Minaj & Flo Rida),72,379
+2010s,Jeremih,Down On Me,72,379
+2010s,Lady Gaga,Born This Way,72,379
+2010s,Christina Perri,Jar of Hearts,72,379
+2010s,PSY,Gangnam Style (강남스타일),72,379
+2010s,Katy Perry,The One That Got Away,72,379
+2010s,Lana Del Rey,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,72,379
+2010s,Bridgit Mendler,Ready or Not,72,379
+2010s,Drake,"Hold On, We're Going Home",72,379
+2010s,Meghan Trainor,All About That Bass,72,379
+2010s,Route 94,My Love (feat. Jess Glynne),72,379
+2010s,Calvin Harris,Under Control (feat. Hurts),72,379
+2010s,Chris Brown,Loyal (feat. Lil Wayne & Tyga),72,379
+2010s,Ed Sheeran,Don't,72,379
+2010s,Clean Bandit,Rather Be (feat. Jess Glynne),72,379
+2010s,Felix Jaehn,Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson),72,379
+2010s,Pia Mia,Do It Again,72,379
+2010s,Burak Yeter,Tuesday (feat. Danelle Sandoval),72,379
+2010s,Drake,Jumpman,72,379
+2010s,Migos,Bad and Boujee (feat. Lil Uzi Vert),72,379
+2010s,DJ Khaled,Wild Thoughts (feat. Rihanna & Bryson Tiller),72,379
+2010s,Migos,MotorSport,72,379
+2010s,Rich The Kid,Plug Walk,72,379
+2010s,Tiësto,Jackie Chan,72,379
+2010s,Cardi B,Bodak Yellow,72,379
+2010s,Ozuna,Vaina Loca,72,379
+2010s,Charlie Puth,How Long,72,379
+2010s,Eminem,River (feat. Ed Sheeran),72,379
+2010s,Migos,Stir Fry,72,379
+2010s,Ella Mai,Trip,72,379
+2010s,Hugh Jackman,The Greatest Show,72,379
+2010s,Halsey,Bad At Love,72,379
+2010s,iann dior,emotions,72,379
+2010s,Paulo Londra,Adan y Eva,72,379
+2010s,DaBaby,Suge,72,379
+2010s,Pitbull,Hey Baby (Drop It to the Floor) (feat. T-Pain),71,417
+2010s,David Guetta,Who's That Chick? (feat. Rihanna),71,417
+2010s,Dr. Dre,I Need A Doctor,71,417
+2010s,Chris Brown,Look At Me Now (feat. Lil' Wayne & Busta Rhymes),71,417
+2010s,Kesha,We R Who We R,71,417
+2010s,Rihanna,Where Have You Been,71,417
+2010s,alt-J,Breezeblocks,71,417
+2010s,Demi Lovato,Give Your Heart a Break,71,417
+2010s,P!nk,True Love (feat. Lily Allen),71,417
+2010s,Fall Out Boy,My Songs Know What You Did In The Dark (Light Em Up),71,417
+2010s,Calvin Harris,Sweet Nothing (feat. Florence Welch),71,417
+2010s,Tinashe,2 On (feat. ScHoolboy Q),71,417
+2010s,Echosmith,Cool Kids,71,417
+2010s,Ed Sheeran,"I See Fire - From ""The Hobbit - The Desolation Of Smaug""",71,417
+2010s,Rae Sremmurd,No Type,71,417
+2010s,Chris Brown,Ayo,71,417
+2010s,The Strumbellas,Spirits,71,417
+2010s,Petit Biscuit,Sunset Lover,71,417
+2010s,Joel Adams,Please Don't Go,71,417
+2010s,Marshmello,Alone,71,417
+2010s,2 Chainz,It's A Vibe,71,417
+2010s,Big Sean,Bounce Back,71,417
+2010s,Marshmello,Spotlight,71,417
+2010s,Clean Bandit,Solo (feat. Demi Lovato),71,417
+2010s,Machine Gun Kelly,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",71,417
+2010s,Jay Rock,"King's Dead (with Kendrick Lamar, Future & James Blake)",71,417
+2010s,Daddy Yankee,Dura,71,417
+2010s,FINNEAS,Let's Fall in Love for the Night,71,417
+2010s,Saweetie,My Type,71,417
+2010s,Lil Nas X,Panini,71,417
+2010s,Jonas Brothers,Only Human,71,417
+2010s,Avicii,SOS (feat. Aloe Blacc),71,417
+2010s,Sech,Otro Trago,71,417
+2010s,Normani,Motivation,71,417
+2010s,Jason Derulo,Whatcha Say,70,451
+2010s,Jason Derulo,Whatcha Say,70,451
+2010s,Cobra Starship,You Make Me Feel... (feat. Sabi),70,451
+2010s,DJ Khaled,I'm On One,70,451
+2010s,David Guetta,Without You (feat. Usher),70,451
+2010s,Lupe Fiasco,The Show Goes On,70,451
+2010s,Jason Derulo,It Girl,70,451
+2010s,Christina Perri,A Thousand Years,70,451
+2010s,Sean Paul,She Doesn't Mind,70,451
+2010s,Skrillex,Bangarang (feat. Sirah),70,451
+2010s,Ellie Goulding,Burn,70,451
+2010s,Calvin Harris,I Need Your Love (feat. Ellie Goulding),70,451
+2010s,DJ Snake,Turn Down for What,70,451
+2010s,Ellie Goulding,Burn,70,451
+2010s,Sia,Elastic Heart,70,451
+2010s,Beyoncé,Drunk in Love (feat. Jay-Z),70,451
+2010s,Taylor Swift,Bad Blood,70,451
+2010s,Meghan Trainor,Lips Are Movin,70,451
+2010s,Desiigner,Panda,70,451
+2010s,OneRepublic,Wherever I Go,70,451
+2010s,Jon Bellion,All Time Low,70,451
+2010s,Mike Perry,The Ocean (feat. Shy Martin),70,451
+2010s,Enrique Iglesias,SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),70,451
+2010s,Tom Walker,Leave a Light On,70,451
+2010s,Jonas Blue,Rise,70,451
+2010s,Lil Dicky,Freaky Friday (feat. Chris Brown),70,451
+2010s,DJ Snake,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",70,451
+2010s,Lunay,Soltera - Remix,70,451
+2010s,Khalid,Better,70,451
+2010s,David Guetta,When Love Takes Over (feat. Kelly Rowland),69,480
+2010s,Black Eyed Peas,The Time (Dirty Bit),69,480
+2010s,Kesha,Your Love Is My Drug,69,480
+2010s,Katy Perry,Teenage Dream,69,480
+2010s,Kesha,Blow,69,480
+2010s,Chris Brown,Yeah 3x,69,480
+2010s,Diddy - Dirty Money,Coming Home,69,480
+2010s,Coldplay,Every Teardrop Is a Waterfall,69,480
+2010s,Beyoncé,Best Thing I Never Had,69,480
+2010s,The Wanted,Chasing The Sun,69,480
+2010s,Ne-Yo,Let Me Love You (Until You Learn To Love Yourself),69,480
+2010s,2 Chainz,We Own It (Fast & Furious),69,480
+2010s,David Guetta,Play Hard (feat. Ne-Yo & Akon),69,480
+2010s,Selena Gomez,Come & Get It,69,480
+2010s,Daft Punk,Lose Yourself to Dance (feat. Pharrell Williams),69,480
+2010s,Iggy Azalea,Fancy,69,480
+2010s,DJ Snake,You Know You Like It,69,480
+2010s,Ed Sheeran,Sing,69,480
+2010s,DJ Snake,You Know You Like It,69,480
+2010s,Selena Gomez,Same Old Love,69,480
+2010s,Beyoncé,7/11,69,480
+2010s,Meghan Trainor,NO,69,480
+2010s,Kevin Gates,2 Phones,69,480
+2010s,Selena Gomez,Same Old Love,69,480
+2010s,SAYGRACE,You Don't Own Me (feat. G-Eazy),69,480
+2010s,Nick Jonas,Close,69,480
+2010s,Ayo & Teo,Rolex,69,480
+2010s,Selena Gomez,Fetish (feat. Gucci Mane),69,480
+2010s,Katy Perry,Chained To The Rhythm,69,480
+2010s,The Weeknd,Pray For Me (with Kendrick Lamar),69,480
+2010s,Becky G,Sin Pijama,69,480
+2010s,The Chainsmokers,Sick Boy,69,480
+2010s,Logic,Everyday,69,480
+2010s,5 Seconds of Summer,Youngblood,69,480
+2010s,Maluma,Corazón (feat. Nego do Borel),69,480
+2010s,Russ Millions,Keisha & Becky - Remix,69,480
+2010s,Young Thug,The London (feat. J. Cole & Travis Scott),69,480
+2010s,Flipp Dinero,Leave Me Alone,69,480
+2010s,AJ Tracey,Ladbroke Grove,69,480
+2010s,Megan Thee Stallion,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),69,480
+2010s,Sam Feldt,Post Malone (feat. RANI),69,480
+2010s,iann dior,gone girl,69,480
+2010s,Blanco Brown,The Git Up,69,480
+2010s,Dizzee Rascal,Dance Wiv Me - Radio Edit,68,523
+2010s,Kesha,Take It Off,68,523
+2010s,Chris Brown,Deuces (feat. Tyga & Kevin McCall),68,523
+2010s,Rihanna,Man Down,68,523
+2010s,Ludacris,My Chick Bad,68,523
+2010s,Lil Wayne,Right Above It,68,523
+2010s,Snoop Dogg,Sweat - Remix,68,523
+2010s,Bad Meets Evil,Lighters,68,523
+2010s,Florence + The Machine,Spectrum (Say My Name) - Calvin Harris Remix,68,523
+2010s,Robbie Williams,Candy,68,523
+2010s,will.i.am,#thatPOWER,68,523
+2010s,Lil Wayne,Love Me,68,523
+2010s,Sebastian Ingrosso,Reload - Radio Edit,68,523
+2010s,Icona Pop,I Love It (feat. Charli XCX),68,523
+2010s,Avicii,I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit,68,523
+2010s,Klangkarussell,Sonnentanz - Sun Don't Shine,68,523
+2010s,Taylor Swift,22,68,523
+2010s,Kid Ink,Show Me (feat. Chris Brown),68,523
+2010s,Fetty Wap,Trap Queen,68,523
+2010s,Birdy,Let It All Go,68,523
+2010s,Meek Mill,All Eyes on You (feat. Chris Brown & Nicki Minaj),68,523
+2010s,David Guetta,This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016),68,523
+2010s,Enrique Iglesias,DUELE EL CORAZON (feat. Wisin),68,523
+2010s,P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",68,523
+2010s,Sia,The Greatest (feat. Kendrick Lamar),68,523
+2010s,Maroon 5,Don't Wanna Know (feat. Kendrick Lamar),68,523
+2010s,Migos,Slippery (feat. Gucci Mane),68,523
+2010s,Cheat Codes,No Promises (feat. Demi Lovato),68,523
+2010s,YG,"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",68,523
+2010s,Drake,I'm Upset,68,523
+2010s,Offset,Clout (feat. Cardi B),68,523
+2010s,Maroon 5,Misery,67,554
+2010s,Usher,More - RedOne Jimmy Joker Remix,67,554
+2010s,LMFAO,Sexy And I Know It,67,554
+2010s,Keri Hilson,Pretty Girl Rock,67,554
+2010s,Lady Gaga,The Edge Of Glory,67,554
+2010s,LMFAO,Sexy And I Know It,67,554
+2010s,Kendrick Lamar,m.A.A.d city,67,554
+2010s,Justin Bieber,As Long As You Love Me,67,554
+2010s,Cher Lloyd,Want U Back,67,554
+2010s,Justin Timberlake,Suit & Tie (feat. Jay-Z),67,554
+2010s,Iggy Azalea,Black Widow,67,554
+2010s,Oliver Heldens,Gecko (Overdrive) - Radio Edit,67,554
+2010s,Duke Dumont,I Got U,67,554
+2010s,Chris Brown,New Flame (feat. Usher & Rick Ross),67,554
+2010s,Lana Del Rey,High By The Beach,67,554
+2010s,Flo Rida,"I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",67,554
+2010s,Jonas Blue,Fast Car,67,554
+2010s,Sia,Cheap Thrills (feat. Sean Paul),67,554
+2010s,Desiigner,Tiimmy Turner,67,554
+2010s,Galantis,No Money,67,554
+2010s,Beyoncé,Sorry,67,554
+2010s,Zara Larsson,Ain't My Fault,67,554
+2010s,Yo Gotti,Rake It Up (feat. Nicki Minaj),67,554
+2010s,David Guetta,2U (feat. Justin Bieber),67,554
+2010s,Rag'n'Bone Man,Skin,67,554
+2010s,EO,German,67,554
+2010s,Charlie Puth,Done for Me (feat. Kehlani),67,554
+2010s,DJ Khaled,No Brainer,67,554
+2010s,Mario Winans,I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster,66,582
+2010s,Edward Maya,Stereo Love - Radio Edit,66,582
+2010s,Cali Swag District,Teach Me How to Dougie,66,582
+2010s,Rihanna,What's My Name?,66,582
+2010s,Jason Derulo,Ridin' Solo,66,582
+2010s,Britney Spears,I Wanna Go,66,582
+2010s,Edward Maya,Stereo Love - Radio Edit,66,582
+2010s,Rihanna,What's My Name?,66,582
+2010s,David Guetta,She Wolf (Falling to Pieces) [feat. Sia],66,582
+2010s,Usher,Scream,66,582
+2010s,Calvin Harris,Let's Go (feat. Ne-Yo),66,582
+2010s,Coldplay,Princess of China,66,582
+2010s,Lana Del Rey,Ride,66,582
+2010s,Eminem,Berzerk,66,582
+2010s,One Direction,One Way or Another (Teenage Kicks),66,582
+2010s,Rudimental,Waiting All Night (feat. Ella Eyre),66,582
+2010s,Armin van Buuren,This Is What It Feels Like,66,582
+2010s,Maroon 5,Daylight,66,582
+2010s,Jason Derulo,Wiggle (feat. Snoop Dogg),66,582
+2010s,Lilly Wood and The Prick,Prayer in C - Robin Schulz Radio Edit,66,582
+2010s,Nicki Minaj,Anaconda,66,582
+2010s,Tove Lo,Talking Body,66,582
+2010s,Enrique Iglesias,Bailando - Spanish Version,66,582
+2010s,Natalie La Rose,Somebody,66,582
+2010s,Deorro,Five More Hours,66,582
+2010s,Tove Lo,Talking Body,66,582
+2010s,Sam Smith,"Writing's On The Wall - From ""Spectre"" Soundtrack",66,582
+2010s,Sigala,Easy Love,66,582
+2010s,Alessia Cara,Here,66,582
+2010s,MØ,Final Song,66,582
+2010s,Rae Sremmurd,Powerglide (feat. Juicy J) - From SR3MM,66,582
+2010s,Ed Sheeran,Take Me Back to London (feat. Stormzy),66,582
+2010s,Jason Derulo,In My Head,65,614
+2010s,Taylor Swift,Back To December,65,614
+2010s,B.o.B,Magic (feat. Rivers Cuomo),65,614
+2010s,Katy Perry,E.T.,65,614
+2010s,Nickelback,When We Stand Together,65,614
+2010s,Britney Spears,Till the World Ends,65,614
+2010s,Kelly Rowland,Motivation,65,614
+2010s,Swedish House Mafia,Save The World,65,614
+2010s,Red Hot Chili Peppers,The Adventures of Rain Dance Maggie,65,614
+2010s,David Guetta,Turn Me On (feat. Nicki Minaj),65,614
+2010s,Emeli Sandé,"Read All About It, Pt. III",65,614
+2010s,Katy Perry,Wide Awake,65,614
+2010s,Drake,Started From the Bottom,65,614
+2010s,Calvin Harris,Thinking About You (feat. Ayah Marar),65,614
+2010s,Ariana Grande,The Way,65,614
+2010s,Rita Ora,I Will Never Let You Down,65,614
+2010s,Philip George,Wish You Were Mine - Radio Edit,65,614
+2010s,Dua Lipa,Hotter Than Hell,65,614
+2010s,Bastille,Good Grief,65,614
+2010s,Sofía Reyes,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",65,614
+2010s,MK,17,65,614
+2010s,Camila Cabello,Liar,65,614
+2010s,Neon Trees,Animal,64,636
+2010s,The Band Perry,If I Die Young,64,636
+2010s,James Morrison,I Won't Let You Go,64,636
+2010s,The Band Perry,If I Die Young,64,636
+2010s,Nicki Minaj,Pound The Alarm,64,636
+2010s,Chris Brown,Turn Up the Music,64,636
+2010s,Frank Ocean,Lost,64,636
+2010s,Rudimental,Feel the Love (feat. John Newman),64,636
+2010s,Pitbull,Don't Stop the Party (feat. TJR),64,636
+2010s,Ciara,Body Party,64,636
+2010s,Kiesza,Hideaway,64,636
+2010s,G.R.L.,Ugly Heart,64,636
+2010s,Demi Lovato,Confident,64,636
+2010s,Selena Gomez,Kill Em With Kindness,64,636
+2010s,Selena Gomez,The Heart Wants What It Wants,64,636
+2010s,Fitz and The Tantrums,HandClap,64,636
+2010s,Lil Pump,Gucci Gang,64,636
+2010s,Migos,T-Shirt,64,636
+2010s,OneRepublic,Rich Love (with Seeb),64,636
+2010s,Jason Derulo,Tip Toe (feat. French Montana),64,636
+2010s,Charlie Puth,The Way I Am,64,636
+2010s,Stormzy,Vossi Bop,64,636
+2010s,Wiley,Boasty (feat. Idris Elba),64,636
+2010s,Sigala,Wish You Well,64,636
+2010s,Ed Sheeran,Cross Me (feat. Chance the Rapper & PnB Rock),64,636
+2010s,DJ Fresh,Gold Dust - Radio Edit,63,661
+2010s,Swedish House Mafia,One (Your Name) - Radio Edit,63,661
+2010s,Enrique Iglesias,I Like It,63,661
+2010s,Ludacris,How Low,63,661
+2010s,Example,Kickstarts,63,661
+2010s,Enrique Iglesias,Tonight (I'm Fuckin' You),63,661
+2010s,Jason Derulo,Don't Wanna Go Home,63,661
+2010s,Wiz Khalifa,Roll Up,63,661
+2010s,Lady A,Just A Kiss,63,661
+2010s,Kendrick Lamar,Swimming Pools (Drank) - Extended Version,63,661
+2010s,Justin Bieber,Boyfriend,63,661
+2010s,Ellie Goulding,Lights - Single Version,63,661
+2010s,Carrie Underwood,Blown Away,63,661
+2010s,Ylvis,The Fox (What Does the Fox Say?),63,661
+2010s,Zedd,Stay The Night - Featuring Hayley Williams Of Paramore,63,661
+2010s,Ella Henderson,Ghost,63,661
+2010s,KALEO,Way down We Go,63,661
+2010s,Drake,Pop Style,63,661
+2010s,Steve Aoki,Just Hold On,63,661
+2010s,Hilltop Hoods,1955,63,661
+2010s,Kent Jones,Don't Mind,63,661
+2010s,G-Eazy,Good Life (with G-Eazy & Kehlani),63,661
+2010s,6ix9ine,GUMMO,63,661
+2010s,Rita Ora,Anywhere,63,661
+2010s,Ed Sheeran,Antisocial (with Travis Scott),63,661
+2010s,Joel Corry,Sorry,63,661
+2010s,David Guetta,Gettin' Over You (feat. Fergie & LMFAO),62,687
+2010s,3OH!3,My First Kiss (feat. Ke$ha),62,687
+2010s,Plan B,She Said,62,687
+2010s,Labrinth,Earthquake (feat. Tinie Tempah),62,687
+2010s,Nicole Scherzinger,Don't Hold Your Breath,62,687
+2010s,Calvin Harris,Bounce (feat. Kelis) - Radio Edit,62,687
+2010s,will.i.am,This Is Love,62,687
+2010s,Wiz Khalifa,"Work Hard, Play Hard",62,687
+2010s,Calvin Harris,We'll Be Coming Back (feat. Example),62,687
+2010s,Chris Brown,Don't Wake Me Up,62,687
+2010s,JAY-Z,Holy Grail,62,687
+2010s,Trey Songz,Na Na,62,687
+2010s,OneRepublic,Counting Stars,62,687
+2010s,Sigma,Nobody To Love - Radio Edit,62,687
+2010s,Sam Smith,Money On My Mind,62,687
+2010s,Trey Songz,Na Na,62,687
+2010s,Tinie Tempah,Girls Like (feat. Zara Larsson),62,687
+2010s,Charlie Puth,Dangerously,62,687
+2010s,PARTYNEXTDOOR,Not Nice,62,687
+2010s,Fifth Harmony,All In My Head (Flex) (feat. Fetty Wap),62,687
+2010s,Big Shaq,Man's Not Hot,62,687
+2010s,Liam Payne,For You (Fifty Shades Freed) (& Rita Ora),62,687
+2010s,Luis Fonsi,Échame La Culpa,62,687
+2010s,Kesha,Blah Blah Blah (feat. 3OH!3),61,710
+2010s,The Saturdays,Higher,61,710
+2010s,Taio Cruz,Higher,61,710
+2010s,Olly Murs,Heart Skips a Beat (feat. Rizzle Kicks),61,710
+2010s,Far East Movement,Rocketeer,61,710
+2010s,Mac Miller,Donald Trump,61,710
+2010s,Tyga,Rack City,61,710
+2010s,ScHoolboy Q,Hands on the Wheel (feat. Asap Rocky),61,710
+2010s,Gym Class Heroes,Ass Back Home (feat. Neon Hitch),61,710
+2010s,Calvin Harris,Drinking from the Bottle (feat. Tinie Tempah),61,710
+2010s,Wale,Bad (feat. Rihanna) - Remix,61,710
+2010s,Bastille,Of The Night,61,710
+2010s,The Saturdays,What About Us,61,710
+2010s,O.T. Genasis,CoCo,61,710
+2010s,Gorgon City,Ready For Your Love,61,710
+2010s,Taylor Swift,Style,61,710
+2010s,Dua Lipa,New Rules,61,710
+2010s,Maggie Lindemann,Pretty Girl - Cheat Codes X CADE Remix,61,710
+2010s,The Vamps,Middle Of The Night,61,710
+2010s,Young T & Bugsey,Strike a Pose (feat. Aitch),61,710
+2010s,Dizzee Rascal,Holiday,60,730
+2010s,Usher,Hey Daddy (Daddy's Home),60,730
+2010s,Chase & Status,Blind Faith,60,730
+2010s,P!nk,F**kin' Perfect,60,730
+2010s,Charlene Soraia,Wherever You Will Go,60,730
+2010s,Alex Clare,Too Close,60,730
+2010s,Flo Rida,I Cry,60,730
+2010s,Katy Perry,This Is How We Do,60,730
+2010s,Clean Bandit,Tears (feat. Louisa Johnson),60,730
+2010s,B Young,Jumanji,60,730
+2010s,Jax Jones,All Day And Night,60,730
+2010s,Khia,"My Neck, My Back (Lick It)",59,741
+2010s,T2,Heartbroken - Edit,59,741
+2010s,Kelly Rowland,Commander,59,741
+2010s,Rizzle Kicks,Down With The Trumpets,59,741
+2010s,Taylor Swift,I Knew You Were Trouble.,59,741
+2010s,Olly Murs,Dear Darlin',59,741
+2010s,Christina Perri,human,59,741
+2010s,OneRepublic,Love Runs Out,59,741
+2010s,Lemaitre,Closer,59,741
+2010s,ZAYN,PILLOWTALK,59,741
+2010s,Cardi B,Bodak Yellow,59,741
+2010s,David Guetta,Flames,59,741
+2010s,DJ Ötzi,Hey Baby (Radio Mix),58,753
+2010s,Waka Flocka Flame,No Hands (feat. Roscoe Dash & Wale),58,753
+2010s,DJ Fresh,Hot Right Now (feat. RITA ORA) - Radio Edit,58,753
+2010s,Tyga,Faded,58,753
+2010s,Naughty Boy,La La La,58,753
+2010s,Selena Gomez,The Heart Wants What It Wants,58,753
+2010s,Jax Jones,Breathe,58,753
+2010s,Jax Jones,Breathe,58,753
+2010s,Ne-Yo,Beautiful Monster,57,761
+2010s,Tinie Tempah,Written in the Stars (feat. Eric Turner),57,761
+2010s,Take That,The Flood,57,761
+2010s,Drake,Over,57,761
+2010s,Jessie J,Do It Like A Dude,57,761
+2010s,Gotye,Somebody That I Used To Know,57,761
+2010s,Baauer,Harlem Shake,57,761
+2010s,Nelly,Hey Porsche,57,761
+2010s,Florida Georgia Line,Cruise,57,761
+2010s,Anne-Marie,Alarm,57,761
+2010s,Anne-Marie,Ciao Adios,57,761
+2010s,Zara Larsson,I Would Like,57,761
+2010s,Zay Hilfigerrr,Juju on That Beat (TZ Anthem),57,761
+2010s,Doja Cat,Juicy,57,761
+2010s,Ashley O,On A Roll,57,761
+2010s,Drake,Find Your Love,56,776
+2010s,Jason Derulo,Talk Dirty (feat. 2 Chainz),56,776
+2010s,Blake Shelton,Sure Be Cool If You Did,56,776
+2010s,Jason Derulo,Talk Dirty (feat. 2 Chainz),56,776
+2010s,Banx & Ranx,Answerphone (feat. Yxng Bane),56,776
+2010s,Cashmere Cat,Miss You (with Major Lazer & Tory Lanez),56,776
+2010s,DJ Fresh,Louder (feat. Sian Evans) - Radio Edit,55,782
+2010s,Robin Thicke,Blurred Lines,55,782
+2010s,Omarion,Post to Be (feat. Chris Brown & Jhene Aiko),55,782
+2010s,SAYGRACE,You Don't Own Me (feat. G-Eazy),55,782
+2010s,Fetty Wap,My Way (feat. Monty),55,782
+2010s,Years & Years,Shine,55,782
+2010s,99 Souls,The Girl Is Mine,55,782
+2010s,Kiiara,Gold,55,782
+2010s,Drake,Best I Ever Had,54,790
+2010s,Swedish House Mafia,Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah,54,790
+2010s,Ellie Goulding,Starry Eyed,54,790
+2010s,Disclosure,White Noise,54,790
+2010s,Taylor Swift,Bad Blood,54,790
+2010s,M.O,Bad Vibe,54,790
+2010s,Faithless,We Come 1 - Radio Edit,53,796
+2010s,Tinie Tempah,Pass Out,53,796
+2010s,Chris Brown,Beautiful People,53,796
+2010s,Jason Aldean,Dirt Road Anthem,53,796
+2010s,Avicii,Silhouettes - Original Radio Edit,53,796
+2010s,Lana Del Rey,Born To Die,53,796
+2010s,Jason Derulo,Trumpets,53,796
+2010s,Nicki Minaj,Bed Of Lies,53,796
+2010s,Flume,Say It,53,796
+2010s,J Balvin,Mi Gente,53,796
+2010s,Avicii,Lonely Together (feat. Rita Ora),53,796
+2010s,Juice WRLD,Robbery,53,796
+2010s,Nelly,Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster,52,808
+2010s,3 Doors Down,Let Me Go,52,808
+2010s,Scouting For Girls,This Ain't a Love Song,52,808
+2010s,DEV,In The Dark,52,808
+2010s,Alesso,Heroes (we could be),52,808
+2010s,DJ Khaled,"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",51,813
+2010s,Lykke Li,I Follow Rivers - The Magician Remix,51,813
+2010s,Icona Pop,I Love It,51,813
+2010s,Nicky Jam,El Perdón - Forgiveness,51,813
+2010s,Alok,Hear Me Now,51,813
+2010s,Illy,Papercuts (feat. Vera Blue),51,813
+2010s,Kodak Black,Tunnel Vision,51,813
+2010s,Jonas Blue,Mama,51,813
+2010s,Blake Shelton,Honey Bee,50,821
+2010s,MARINA,How to Be a Heartbreaker,50,821
+2010s,Jason Derulo,The Other Side,50,821
+2010s,David Guetta,Lovers on the Sun (feat. Sam Martin),50,821
+2010s,Klingande,Jubel - Radio Edit,50,821
+2010s,Girls Aloud,Something Kinda Ooooh,49,826
+2010s,Sak Noel,Loca People - Radio Edit,49,826
+2010s,ZHU,Faded,49,826
+2010s,Charli XCX,Boom Clap,49,826
+2010s,Flo Rida,GDFR (feat. Sage the Gemini & Lookas),49,826
+2010s,Major Lazer,Light It Up (feat. Nyla & Fuse ODG) - Remix,49,826
+2010s,Unk,Walk It Out,48,832
+2010s,Mann,Buzzin Remix,48,832
+2010s,Chip,Champion (feat. Chris Brown),48,832
+2010s,Rita Ora,How We Do (Party),48,832
+2010s,Birdy,Wings,48,832
+2010s,Peking Duk,High (feat. Nicole Millar),48,832
+2010s,Martin Solveig,Intoxicated - New Radio Mix,48,832
+2010s,Starley,Call on Me - Ryan Riback Remix,48,832
+2010s,Chicane,Don't Give Up,47,840
+2010s,Scooter,Nessaja,47,840
+2010s,Creed,One Last Breath - Radio Version,47,840
+2010s,Lil' Kim,Magic Stick,47,840
+2010s,David Guetta,Bang My Head (feat. Sia & Fetty Wap),47,840
+2010s,Hayden James,NUMB,47,840
+2010s,Scooter,The Logical Song,46,846
+2010s,P!nk,Sober,46,846
+2010s,Duck Sauce,Barbra Streisand - Radio Edit,46,846
+2010s,Matt Cardle,When We Collide,46,846
+2010s,Rita Ora,R.I.P. (feat. Tinie Tempah),46,846
+2010s,Adam Lambert,Ghost Town,46,846
+2010s,Sigala,Sweet Lovin' - Radio Edit,46,846
+2010s,Daughtry,It's Not Over,45,853
+2010s,David Guetta,Bad (feat. Vassy) - Radio Edit,45,853
+2010s,MNEK,Never Forget You,45,853
+2010s,Samantha Mumba,Gotta Tell You,43,856
+2010s,Liberty X,Just A Little,43,856
+2010s,Ida Corr,Let Me Think About It,43,856
+2010s,INNA,Hot - Play & Win Radio Version,42,859
+2010s,Example,Changed the Way You Kiss Me - Radio Edit,42,859
+2010s,6ix9ine,FEFE,42,859
+2010s,Angie Martinez,If I Could Go! (feat. Lil' Mo & Sacario),40,862
+2010s,Blazin' Squad,Crossroads - Radio Edit,40,862
+2010s,Fedde Le Grand,Put Your Hands Up for Detroit - Radio Edit,39,864
+2010s,JLS,Everybody in Love,39,864
+2010s,Professor Green,Read All About It,39,864
+2010s,Dizzee Rascal,Bonkers,38,867
+2010s,Hinder,Lips Of An Angel,35,868
+2010s,Shontelle,Impossible,35,868
+2010s,BTS,Boy With Luv (feat. Halsey),35,868
+2010s,Kelly Rowland,Work,34,871
+2010s,Lost Frequencies,Are You With Me - Radio Edit,33,872
+2010s,3OH!3,Starstrukk,32,873
+2010s,K-Ci & JoJo,Crazy,30,874
+2010s,Hinder,Better Than Me,30,874
+2010s,Duke Dumont,Need U (100%) [feat. A*M*E] - Radio Edit,27,876
+2010s,Usher,Pop Ya Collar - Radio Edit,26,877
+2010s,Calvin Harris,Summer,21,878
+2010s,The Wanted,All Time Low,18,879
+2010s,Lorde,Homemade Dynamite - REMIX,8,880
+2010s,Ava Max,Sweet but Psycho,7,881
+2010s,Avicii,Wake Me Up,6,882
+2010s,Adele,Someone Like You,4,883
+2010s,blackbear,do re mi,4,883
+2010s,Ava Max,So Am I,4,883
+2010s,Ariana Grande,Into You,3,886
+2010s,Adele,Rolling in the Deep,2,887
+2010s,Adele,Set Fire to the Rain,2,887
+2010s,AWOLNATION,Sail,2,887
+2010s,Mr. Probz,Waves - Robin Schulz Radio Edit,2,887
+2010s,Avicii,Hey Brother,2,887
+2010s,Lauv,i'm so tired...,2,887
+2010s,Gigi D'Agostino,L'Amour Toujours,1,893
+2010s,Guru Josh Project,Infinity 2008,1,893
+2010s,Yolanda Be Cool,We No Speak Americano (JT Radio Edit),1,893
+2010s,Aloe Blacc,I Need A Dollar,1,893
+2010s,Lil Wayne,6 Foot 7 Foot,1,893
+2010s,Macklemore & Ryan Lewis,Thrift Shop (feat. Wanz),1,893
+2010s,Bingo Players,Get Up (Rattle) - Vocal Edit,1,893
+2010s,Rich Homie Quan,"Flex (Ooh, Ooh, Ooh)",1,893
+2010s,Little Mix,Black Magic,1,893
+2010s,Adele,Hello,1,893
+2010s,Jonas Blue,Fast Car,1,893
+2010s,Daya,"Sit Still, Look Pretty",1,893
+2010s,Little Mix,Shout Out to My Ex,1,893
+2010s,Camila Cabello,Havana (feat. Young Thug),1,893
+2010s,Imagine Dragons,Thunder,1,893
+2010s,Jax Jones,You Don't Know Me - Radio Edit,1,893
+2010s,Imagine Dragons,Believer,1,893
+2010s,Liam Payne,Strip That Down,1,893
+2010s,Reik,Me Niego (feat. Ozuna & Wisin),1,893
+2010s,BLACKPINK,Kill This Love,1,893
+2010s,Blueface,Thotiana,1,893
+2010s,5 Seconds of Summer,Easier,1,893
+2010s,Post Malone,Goodbyes (Feat. Young Thug),1,893
+2010s,Mariah Carey,Against All Odds (Take A Look at Me Now) (feat. Westlife),0,916
+2010s,DB Boulevard,Point Of View - Radio Edit,0,916
+2010s,Aaliyah,Rock The Boat,0,916
+2010s,Cascada,Everytime We Touch - Radio Edit,0,916
+2010s,Fedde Le Grand,Put Your Hands Up For Detroit - Radio Edit,0,916
+2010s,Lucenzo,Danza Kuduro (feat. Don Omar),0,916
+2010s,Miley Cyrus,Can't Be Tamed,0,916
+2010s,Trey Songz,Bottoms Up (feat. Nicki Minaj),0,916
+2010s,Tim Berg,Seek Bromance - Avicii’s Vocal Edit,0,916
+2010s,Two Door Cinema Club,What You Know,0,916
+2010s,Robyn,Dancing On My Own,0,916
+2010s,Alexandra Stan,Mr. Saxobeat,0,916
+2010s,Nicki Minaj,Super Bass,0,916
+2010s,Lil Wayne,How To Love,0,916
+2010s,Olly Murs,Troublemaker (feat. Flo Rida),0,916
+2010s,Asaf Avidan & the Mojos,One Day / Reckoning Song (Wankelmut Remix) [Radio Edit],0,916
+2010s,Azealia Banks,212,0,916
+2010s,Michel Teló,Ai Se Eu Te Pego - Live,0,916
+2010s,Otto Knows,Million Voices - Radio Edit,0,916
+2010s,Jennifer Lopez,Dance Again,0,916
+2010s,Grimes,Oblivion,0,916
+2010s,Adele,Rumour Has It,0,916
+2010s,Alesso,Years - ラジオ・エディット,0,916
+2010s,Guy Sebastian,Battle Scars (feat. Lupe Fiasco),0,916
+2010s,Kesha,C'Mon,0,916
+2010s,One Direction,Live While We're Young,0,916
+2010s,Little Mix,Wings,0,916
+2010s,Stromae,Papaoutai,0,916
+2010s,Martin Garrix,Animals - Radio Edit,0,916
+2010s,Britney Spears,Work B**ch,0,916
+2010s,Capital Cities,Safe And Sound,0,916
+2010s,Kanye West,Black Skinhead,0,916
+2010s,Lorde,Team,0,916
+2010s,Storm Queen,Look Right Through - MK Vocal Edit,0,916
+2010s,Katy Perry,Unconditionally,0,916
+2010s,Zedd,Clarity,0,916
+2010s,Chris Brown,Fine China,0,916
+2010s,J. Cole,Power Trip (feat. Miguel),0,916
+2010s,James Blunt,Bonfire Heart,0,916
+2010s,Childish Gambino,3005,0,916
+2010s,Avril Lavigne,Here's to Never Growing Up,0,916
+2010s,ScHoolboy Q,Collard Greens,0,916
+2010s,Maroon 5,Maps,0,916
+2010s,ScHoolboy Q,Man Of The Year,0,916
+2010s,The Chainsmokers,#SELFIE - Original Mix,0,916
+2010s,Ariana Grande,Break Free,0,916
+2010s,Olly Murs,Up (feat. Demi Lovato),0,916
+2010s,Tiësto,Red Lights,0,916
+2010s,Tiësto,Wasted,0,916
+2010s,Maroon 5,Sugar,0,916
+2010s,Sheppard,Geronimo,0,916
+2010s,Olly Murs,Wrapped Up (feat. Travie McCoy),0,916
+2010s,Nick Jonas,Jealous - Remix,0,916
+2010s,Demi Lovato,Cool for the Summer,0,916
+2010s,The Weeknd,In The Night,0,916
+2010s,Zara Larsson,Lush Life,0,916
+2010s,Years & Years,King,0,916
+2010s,Silentó,Watch Me (Whip / Nae Nae),0,916
+2010s,Selena Gomez,Good For You,0,916
+2010s,Alessia Cara,Here,0,916
+2010s,Drake,Jumpman,0,916
+2010s,Ellie Goulding,On My Mind,0,916
+2010s,Zedd,I Want You To Know,0,916
+2010s,BØRNS,Electric Love,0,916
+2010s,The Weeknd,Starboy,0,916
+2010s,Justin Bieber,Love Yourself,0,916
+2010s,Astrid S,Hurts So Good,0,916
+2010s,Cheat Codes,Sex,0,916
+2010s,Tove Lo,Cool Girl,0,916
+2010s,Ariana Grande,Side To Side,0,916
+2010s,Ariana Grande,Dangerous Woman,0,916
+2010s,AlunaGeorge,I'm In Control,0,916
+2010s,Drake,Hotline Bling,0,916
+2010s,Kungs,This Girl - Kungs Vs. Cookin' On 3 Burners,0,916
+2010s,Kygo,Stole the Show,0,916
+2010s,DJ Snake,Middle,0,916
+2010s,Jonas Blue,Perfect Strangers,0,916
+2010s,Major Lazer,Cold Water (feat. Justin Bieber & MØ),0,916
+2010s,Tory Lanez,LUV,0,916
+2010s,Flume,Never Be Like You,0,916
+2010s,The Lumineers,Ophelia,0,916
+2010s,Luis Fonsi,Despacito (Featuring Daddy Yankee),0,916
+2010s,G-Eazy,Him & I,0,916
+2010s,Maroon 5,Cold (feat. Future),0,916
+2010s,Axwell /\ Ingrosso,More Than You Know,0,916
+2010s,Travis Scott,BUTTERFLY EFFECT,0,916
+2010s,G-Eazy,No Limit,0,916
+2010s,Kendrick Lamar,HUMBLE.,0,916
+2010s,Charlie Puth,Attention,0,916
+2010s,Kendrick Lamar,DNA.,0,916
+2010s,A Boogie Wit da Hoodie,Drowning (feat. Kodak Black),0,916
+2010s,Martin Jensen,Solo Dance,0,916
+2010s,Shawn Mendes,There's Nothing Holdin' Me Back,0,916
+2010s,Clean Bandit,Symphony (feat. Zara Larsson),0,916
+2010s,Drake,Passionfruit,0,916
+2010s,Justin Bieber,Friends (with BloodPop®),0,916
+2010s,ZAYN,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",0,916
+2010s,AJR,Weak,0,916
+2010s,Lana Del Rey,Lust for Life (with The Weeknd),0,916
+2010s,CNCO,Reggaetón Lento (Remix),0,916
+2010s,Shawn Mendes,Mercy,0,916
+2010s,Loud Luxury,Body (feat. brando),0,916
+2010s,NLE Choppa,Shotta Flow (feat. Blueface) [Remix],0,916
+2010s,Mabel,Mad Love,0,916
+2020s,NSG,Options,57,1
+2020s,t.A.T.u.,All The Things She Said,39,2
+2020s,Will Smith,Switch,34,3

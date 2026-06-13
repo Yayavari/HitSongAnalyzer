@@ -1,0 +1,5 @@
+decade,total_songs,avg_popularity,avg_danceability,avg_energy,avg_valence,avg_tempo,avg_loudness,avg_acousticness,avg_speechiness
+1990s,39,64.51,0.67,0.73,0.57,121.64,0.71,0.15,0.07
+2000s,939,60.21,0.67,0.73,0.59,118.34,0.74,0.13,0.11
+2010s,1019,59.43,0.67,0.71,0.51,121.68,0.74,0.13,0.1
+2020s,3,43.33,0.75,0.79,0.54,128.14,0.77,0.15,0.11

@@ -1,0 +1,382 @@
+year,genre,song_count,avg_popularity
+1998,"hip hop, pop, R&B",1,49.0
+1999,pop,11,62.0
+1999,"pop, R&B",5,64.8
+1999,"hip hop, pop, R&B",3,62.67
+1999,hip hop,3,76.67
+1999,"rock, pop",2,70.5
+1999,"pop, rock, metal",2,66.5
+1999,"pop, latin",2,55.0
+1999,"pop, Dance/Electronic",2,57.5
+1999,set(),1,71.0
+1999,"rock, metal",1,71.0
+1999,"rock, blues, latin",1,66.0
+1999,"rock, Folk/Acoustic, easy listening",1,65.0
+1999,rock,1,78.0
+1999,"pop, country",1,66.0
+1999,"hip hop, pop",1,71.0
+1999,Dance/Electronic,1,56.0
+2000,pop,16,61.94
+2000,"pop, R&B",11,51.09
+2000,"hip hop, pop, R&B",10,58.8
+2000,"pop, rock",4,59.75
+2000,"pop, Dance/Electronic",4,54.25
+2000,"hip hop, pop",4,67.25
+2000,hip hop,4,70.5
+2000,"rock, metal",3,81.33
+2000,R&B,3,60.33
+2000,"pop, rock, metal",2,69.5
+2000,metal,2,72.5
+2000,"hip hop, pop, latin",2,1.0
+2000,"rock, pop, metal",1,49.0
+2000,"rock, pop",1,68.0
+2000,rock,1,56.0
+2000,"pop, latin",1,60.0
+2000,"pop, Folk/Acoustic",1,68.0
+2000,"hip hop, R&B",1,54.0
+2000,"World/Traditional, Folk/Acoustic",1,69.0
+2000,"Folk/Acoustic, rock",1,0.0
+2000,Dance/Electronic,1,50.0
+2001,pop,25,60.44
+2001,"hip hop, pop, R&B",19,58.58
+2001,"pop, R&B",18,59.0
+2001,"hip hop, pop",7,59.14
+2001,"rock, metal",6,70.0
+2001,"pop, Dance/Electronic",6,51.5
+2001,"rock, pop",5,44.6
+2001,Dance/Electronic,5,59.4
+2001,hip hop,4,65.5
+2001,"pop, latin",3,64.67
+2001,"pop, country",3,62.0
+2001,"pop, rock",2,56.0
+2001,"rock, pop, metal",1,40.0
+2001,"pop, rock, metal",1,69.0
+2001,"pop, Folk/Acoustic",1,60.0
+2001,"hip hop, pop, rock",1,68.0
+2001,"hip hop, Dance/Electronic",1,76.0
+2002,"hip hop, pop, R&B",27,56.26
+2002,pop,19,64.58
+2002,"hip hop, pop",11,63.0
+2002,hip hop,8,70.25
+2002,"pop, R&B",5,55.0
+2002,"rock, pop",3,76.67
+2002,"rock, metal",3,71.67
+2002,"pop, rock",3,59.67
+2002,rock,2,76.5
+2002,"pop, rock, metal",2,70.5
+2002,"pop, Dance/Electronic",2,58.0
+2002,set(),1,66.0
+2002,"rock, easy listening",1,60.0
+2002,"pop, Folk/Acoustic",1,57.0
+2002,"Folk/Acoustic, pop",1,75.0
+2002,Dance/Electronic,1,48.0
+2003,"hip hop, pop",18,63.28
+2003,"pop, R&B",17,57.88
+2003,pop,15,54.93
+2003,"hip hop, pop, R&B",11,59.27
+2003,"rock, metal",6,70.17
+2003,"pop, Dance/Electronic",6,46.83
+2003,metal,5,71.0
+2003,"rock, pop",4,57.75
+2003,"pop, R&B, Dance/Electronic",3,62.67
+2003,rock,2,37.0
+2003,"hip hop, pop, R&B, latin",2,73.0
+2003,"rock, blues",1,3.0
+2003,"pop, rock, metal",1,79.0
+2003,"pop, latin",1,37.0
+2003,"pop, easy listening, jazz",1,55.0
+2003,"hip hop, R&B",1,63.0
+2003,hip hop,1,53.0
+2003,"World/Traditional, hip hop",1,61.0
+2003,Dance/Electronic,1,57.0
+2004,"pop, R&B",15,64.07
+2004,pop,15,48.07
+2004,"hip hop, pop, R&B",14,60.0
+2004,hip hop,14,68.0
+2004,"hip hop, pop",12,54.5
+2004,"pop, Dance/Electronic",5,56.6
+2004,set(),4,53.5
+2004,rock,4,72.25
+2004,"hip hop, pop, rock",2,65.0
+2004,"World/Traditional, rock",2,60.0
+2004,Dance/Electronic,2,62.0
+2004,"rock, metal",1,60.0
+2004,"pop, rock, Dance/Electronic",1,43.0
+2004,"pop, rock",1,33.0
+2004,"pop, latin",1,70.0
+2004,latin,1,11.0
+2004,"hip hop, Dance/Electronic",1,58.0
+2004,R&B,1,46.0
+2005,"hip hop, pop",21,65.33
+2005,"hip hop, pop, R&B",18,57.0
+2005,"pop, R&B",12,54.08
+2005,pop,10,63.9
+2005,hip hop,8,72.13
+2005,rock,6,66.67
+2005,"rock, metal",5,69.4
+2005,"rock, pop",4,67.0
+2005,"pop, Dance/Electronic",3,47.67
+2005,"pop, latin",2,77.0
+2005,"pop, Folk/Acoustic",2,54.0
+2005,"hip hop, pop, rock",2,57.5
+2005,"World/Traditional, pop, Folk/Acoustic",2,67.5
+2005,set(),1,46.0
+2005,"rock, Dance/Electronic",1,54.0
+2005,"pop, rock",1,58.0
+2005,"pop, easy listening, jazz",1,60.0
+2005,"pop, country",1,76.0
+2005,"hip hop, pop, country",1,62.0
+2005,"hip hop, pop, R&B, latin",1,4.0
+2005,country,1,67.0
+2005,Dance/Electronic,1,63.0
+2006,pop,26,47.96
+2006,"pop, R&B",15,63.0
+2006,"hip hop, pop",15,55.53
+2006,rock,10,72.6
+2006,"hip hop, pop, R&B",8,59.25
+2006,"hip hop, pop, latin",3,80.67
+2006,R&B,3,70.0
+2006,"rock, pop",2,63.0
+2006,"pop, Dance/Electronic",2,54.5
+2006,country,2,34.5
+2006,Dance/Electronic,2,53.0
+2006,set(),1,17.0
+2006,"pop, rock, Dance/Electronic",1,63.0
+2006,"pop, R&B, Dance/Electronic",1,50.0
+2006,metal,1,65.0
+2006,"hip hop, R&B",1,74.0
+2006,"World/Traditional, rock, pop",1,35.0
+2006,"World/Traditional, pop",1,61.0
+2007,"hip hop, pop, R&B",19,59.63
+2007,"pop, R&B",13,64.85
+2007,pop,13,54.0
+2007,"hip hop, pop",13,62.92
+2007,rock,7,70.86
+2007,"rock, metal",6,74.5
+2007,hip hop,5,49.0
+2007,"pop, Dance/Electronic",4,44.25
+2007,"pop, rock",3,46.67
+2007,set(),2,57.0
+2007,"hip hop, pop, R&B, Dance/Electronic",2,61.0
+2007,"rock, pop",1,53.0
+2007,"rock, blues, latin",1,57.0
+2007,"rock, blues",1,56.0
+2007,"pop, rock, Dance/Electronic",1,55.0
+2007,"pop, latin",1,45.0
+2007,"hip hop, pop, Dance/Electronic",1,57.0
+2007,Dance/Electronic,1,73.0
+2008,pop,22,67.18
+2008,"pop, R&B",18,56.56
+2008,"hip hop, pop, R&B",15,60.13
+2008,"hip hop, pop",15,68.4
+2008,"rock, metal",4,66.0
+2008,hip hop,3,71.33
+2008,"rock, pop",2,71.5
+2008,rock,2,80.0
+2008,"pop, Dance/Electronic",2,59.0
+2008,R&B,2,67.0
+2008,Dance/Electronic,2,56.0
+2008,"rock, pop, metal",1,78.0
+2008,"rock, pop, Dance/Electronic",1,77.0
+2008,"rock, R&B, Folk/Acoustic, pop",1,58.0
+2008,"pop, rock, metal",1,56.0
+2008,"pop, rock, Dance/Electronic",1,51.0
+2008,"pop, latin",1,52.0
+2008,"pop, R&B, easy listening",1,60.0
+2008,"pop, Folk/Acoustic",1,51.0
+2008,"hip hop, pop, rock",1,70.0
+2008,"hip hop, Dance/Electronic",1,59.0
+2009,pop,20,63.35
+2009,"hip hop, pop, R&B",15,52.73
+2009,"pop, R&B",8,60.5
+2009,"pop, Dance/Electronic",8,62.63
+2009,"hip hop, pop",8,70.38
+2009,hip hop,7,68.0
+2009,rock,4,53.5
+2009,set(),2,61.0
+2009,"hip hop, pop, latin",2,61.0
+2009,"hip hop, pop, Dance/Electronic",2,59.0
+2009,"rock, pop, metal",1,75.0
+2009,"rock, pop, Dance/Electronic",1,57.0
+2009,"rock, pop",1,78.0
+2009,"rock, metal",1,68.0
+2009,"pop, latin",1,68.0
+2009,country,1,50.0
+2009,"Folk/Acoustic, rock, pop",1,68.0
+2009,Dance/Electronic,1,47.0
+2010,"hip hop, pop",23,65.65
+2010,pop,20,65.1
+2010,"hip hop, pop, R&B",18,61.89
+2010,"pop, Dance/Electronic",14,52.86
+2010,"hip hop, pop, Dance/Electronic",8,67.25
+2010,"pop, R&B",4,59.25
+2010,hip hop,3,78.67
+2010,country,3,60.33
+2010,Dance/Electronic,3,36.33
+2010,"pop, rock, Dance/Electronic",2,58.5
+2010,"pop, latin",2,63.0
+2010,"hip hop, pop, rock",2,47.0
+2010,"rock, pop",1,64.0
+2010,"pop, easy listening, Dance/Electronic",1,58.0
+2010,"pop, country",1,73.0
+2010,"World/Traditional, rock, pop",1,0.0
+2010,R&B,1,1.0
+2011,"hip hop, pop",18,60.28
+2011,"pop, Dance/Electronic",12,60.58
+2011,pop,12,61.5
+2011,"hip hop, pop, R&B",12,71.25
+2011,"pop, R&B",8,26.88
+2011,"hip hop, pop, Dance/Electronic",8,55.38
+2011,"rock, pop",5,76.2
+2011,hip hop,5,54.8
+2011,"hip hop, pop, latin",3,75.33
+2011,Dance/Electronic,3,49.33
+2011,rock,2,62.5
+2011,set(),1,57.0
+2011,"rock, pop, metal, Dance/Electronic",1,76.0
+2011,"rock, pop, Dance/Electronic",1,68.0
+2011,"rock, metal",1,65.0
+2011,"pop, rock, Folk/Acoustic",1,79.0
+2011,"pop, rock",1,2.0
+2011,"pop, country",1,63.0
+2011,latin,1,0.0
+2011,"hip hop, pop, rock",1,73.0
+2011,"hip hop, Dance/Electronic",1,48.0
+2011,country,1,50.0
+2012,pop,34,63.53
+2012,"pop, Dance/Electronic",18,48.56
+2012,"hip hop, pop, Dance/Electronic",17,61.82
+2012,"hip hop, pop",14,64.64
+2012,"hip hop, pop, R&B",7,58.14
+2012,rock,3,76.33
+2012,"pop, R&B",3,69.33
+2012,"hip hop, pop, latin",3,73.67
+2012,hip hop,3,67.67
+2012,set(),2,41.5
+2012,"rock, pop",2,76.5
+2012,"pop, rock",2,73.0
+2012,"rock, metal",1,73.0
+2012,"pop, rock, metal",1,52.0
+2012,"pop, rock, Folk/Acoustic",1,79.0
+2012,"pop, rock, Dance/Electronic",1,0.0
+2012,"pop, country",1,63.0
+2012,"country, latin",1,0.0
+2012,country,1,57.0
+2013,pop,27,54.3
+2013,"pop, Dance/Electronic",21,44.14
+2013,"hip hop, pop",11,61.27
+2013,hip hop,8,42.75
+2013,"hip hop, pop, R&B",5,51.0
+2013,rock,3,79.67
+2013,"pop, rock",3,71.33
+2013,"pop, R&B",3,67.67
+2013,"hip hop, Dance/Electronic",2,76.0
+2013,Dance/Electronic,2,57.5
+2013,set(),1,74.0
+2013,"rock, pop",1,89.0
+2013,"hip hop, pop, Dance/Electronic",1,70.0
+2013,country,1,56.0
+2014,pop,33,63.52
+2014,"pop, Dance/Electronic",21,51.71
+2014,"hip hop, pop",12,57.42
+2014,"hip hop, pop, Dance/Electronic",11,62.0
+2014,"hip hop, pop, R&B",4,48.5
+2014,set(),3,73.0
+2014,"pop, rock, Dance/Electronic",3,46.67
+2014,"pop, R&B",3,71.67
+2014,Dance/Electronic,3,32.33
+2014,"rock, pop",2,80.0
+2014,"pop, rock",2,70.0
+2014,"pop, latin",2,72.0
+2014,"pop, R&B, Dance/Electronic",1,80.0
+2014,"hip hop, pop, latin",1,80.0
+2014,"hip hop, pop, R&B, Dance/Electronic",1,71.0
+2014,"hip hop, Dance/Electronic",1,2.0
+2014,"Folk/Acoustic, pop",1,81.0
+2015,pop,25,60.08
+2015,"pop, Dance/Electronic",16,46.94
+2015,"hip hop, pop",13,64.46
+2015,"hip hop, pop, R&B",11,65.73
+2015,"pop, R&B",8,43.75
+2015,"hip hop, pop, Dance/Electronic",5,49.0
+2015,"rock, pop",4,60.75
+2015,rock,3,81.0
+2015,"pop, rock, Dance/Electronic",2,39.0
+2015,"hip hop, rock, pop",2,75.0
+2015,Dance/Electronic,2,58.0
+2015,"rock, pop, Dance/Electronic",1,55.0
+2015,"rock, classical",1,63.0
+2015,"pop, rock, metal",1,47.0
+2015,"pop, R&B, Dance/Electronic",1,86.0
+2015,metal,1,83.0
+2015,"hip hop, Dance/Electronic",1,73.0
+2015,hip hop,1,0.0
+2015,R&B,1,71.0
+2016,"pop, Dance/Electronic",23,44.0
+2016,pop,16,57.63
+2016,"hip hop, pop, R&B",13,57.31
+2016,"hip hop, pop, Dance/Electronic",11,50.55
+2016,"hip hop, pop",10,71.5
+2016,"pop, R&B",6,59.33
+2016,Dance/Electronic,5,45.4
+2016,hip hop,4,74.0
+2016,"rock, pop, Dance/Electronic",2,0.5
+2016,"pop, rock",2,64.5
+2016,set(),1,57.0
+2016,"rock, Folk/Acoustic, pop",1,71.0
+2016,rock,1,80.0
+2016,"pop, rock, metal",1,45.0
+2016,"pop, latin",1,68.0
+2016,"pop, Folk/Acoustic",1,0.0
+2016,"hip hop, Dance/Electronic",1,83.0
+2017,pop,28,49.14
+2017,"pop, Dance/Electronic",22,57.23
+2017,"hip hop, pop",22,64.95
+2017,hip hop,12,54.92
+2017,"hip hop, pop, Dance/Electronic",6,54.83
+2017,"pop, latin",5,41.2
+2017,rock,4,20.5
+2017,"rock, pop",2,65.5
+2017,latin,2,52.0
+2017,R&B,2,71.5
+2017,"pop, rock",1,52.0
+2017,"pop, Folk/Acoustic",1,80.0
+2017,"hip hop, pop, R&B",1,0.0
+2017,"hip hop, Dance/Electronic",1,0.0
+2017,easy listening,1,72.0
+2017,Dance/Electronic,1,59.0
+2018,"hip hop, pop",18,72.72
+2018,hip hop,18,71.78
+2018,"pop, Dance/Electronic",17,74.65
+2018,pop,15,66.27
+2018,"hip hop, pop, R&B",6,75.0
+2018,latin,5,73.0
+2018,"hip hop, pop, Dance/Electronic",5,73.6
+2018,"pop, latin",4,52.25
+2018,"pop, R&B",4,73.0
+2018,rock,3,80.33
+2018,"hip hop, Dance/Electronic",3,74.0
+2018,Dance/Electronic,3,44.67
+2018,"rock, pop, Dance/Electronic",2,76.5
+2018,set(),1,67.0
+2018,"rock, pop",1,78.0
+2018,"pop, rock, Dance/Electronic",1,82.0
+2018,"pop, rock",1,56.0
+2019,pop,25,60.76
+2019,"pop, Dance/Electronic",13,60.0
+2019,hip hop,13,63.38
+2019,"hip hop, pop",10,72.1
+2019,"hip hop, pop, R&B",7,55.71
+2019,latin,6,76.0
+2019,"hip hop, pop, Dance/Electronic",3,67.67
+2019,"hip hop, Dance/Electronic",3,65.67
+2019,"pop, rock, metal",2,32.5
+2019,"pop, R&B",2,50.5
+2019,set(),1,57.0
+2019,"pop, latin",1,70.0
+2019,"hip hop, latin, Dance/Electronic",1,72.0
+2019,"hip hop, country",1,69.0
+2019,Dance/Electronic,1,84.0
+2020,pop,1,39.0
+2020,"hip hop, pop",1,34.0
+2020,"World/Traditional, hip hop",1,57.0
