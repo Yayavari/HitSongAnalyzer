@@ -19,7 +19,20 @@ Why do some songs become massive hits while others with similar production flop?
 - **Size:** 2,000 songs, 18 audio features
 - **Key Features:** danceability, energy, valence, tempo, loudness, speechiness, acousticness, popularity, genre
 
-## Project StructureHitSongAnalyzer/
+
+## Project Structure
+
+\HitSongAnalyzer/
+├── data/
+│   ├── raw/               <- Original Kaggle CSV
+│   └── cleaned/           <- 6 SQL query outputs + cleaned CSV
+├── sql/                   <- SQL query files
+├── powerbi/               <- Power BI .pbix dashboard
+├── docs/                  <- Dashboard screenshots
+├── analysis.py            <- Data cleaning pipeline
+├── run_queries.py         <- SQL analysis runner
+└── README.md
+\HitSongAnalyzer/
 
 ├── data/
 
